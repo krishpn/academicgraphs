@@ -1,842 +1,842 @@
 ,title,search_hit_count,google_scholar_citation_count,authors
-80,Are the Fama and French factors global or country specific?,1,991,['JM Griffin']
-150,Characteristics of a firms information environment and the information asymmetry between insiders and outsiders,1,990,['R Frankel']
-179,Contracting under asymmetric information: Evidence from lockup agreements in seasoned equity offerings,1,99,"['JM Karpoff', 'RW Masulis']"
-591,Machine learning models and bankruptcy prediction,2,989,"['H Kimura', 'F Barboza']"
-323,Economic activity of firms and asset prices,2,98,"['L Kogan', 'D Papanikolaou']"
-186,Corporate finance risk prediction based on LightGBM,1,98,[]
-570,Labor-market concentration and labor compensation,1,98,"['Y Qiu', 'A Sojourner']"
-682,Other comprehensive income: a review and directions for future research,1,98,['DE Black']
-259,Do behavioral biases adversely affect the macro-economy?,1,98,"['A Kumar', 'GM Korniotis']"
-693,Perspectives on the future of asset pricing,1,98,"['RSJ Koijen', 'M Brunnermeier']"
-147,"Causal relations among stock returns, interest rates, real activity, and inflation",1,979,[]
-62,An intertemporal capital asset pricing model,4,9782,[]
-741,Quality minus junk,3,975,"['A Frazzini', 'LH Pedersen']"
-128,CEO age and the riskiness of corporate policies,1,971,['MA Serfling']
-528,Interest rate risk and the cross section of stock returns,2,97,"['P Maio', 'A Lioui']"
-45,Accounting for intangibles: a literature review,1,965,[]
-699,Political connections and the cost of equity capital,2,960,"['W Saffar', 'D Mishra', 'N Boubakri', 'O Guedhami']"
-389,Financial instrument fair values and nonfinancial firms,1,96,[]
-2,"A Unified Theory of Tobins q, Corporate Investment, Financing, and Risk Management",1,951,"['H Chen', 'P Bolton', 'N Wang']"
-623,Mispricing factors,10,949,"['RF Stambaugh', 'Y Yuan']"
-73,Are US industries becoming more concentrated?,2,943,"['R Michaely', 'G Grullon']"
-14,A five-factor asset pricing model,15,9418,['KR French']
-470,"Idiosyncratic return volatility, cash flows, and product market competition",1,940,"['PJ Irvine', 'J Pontiff']"
-701,"Political risk, economic risk, and financial risk",1,940,['CR Harvey']
-268,Do measures of financial constraints measure financial constraints?,2,934,"['J Farre-Mensa', 'A Ljungqvist']"
-3,A behavioral approach to asset pricing,1,925,['H Shefrin']
-720,Price dynamics in limit order markets,1,924,['CA Parlour']
-326,Economic significance of predictable variations in stock index returns,1,916,"['LR Glosten', 'R Jagannathan']"
-628,Momentum has its moments,1,914,"['P Santa-Clara', 'P Barroso']"
-462,How natural disasters affect energy innovation? The perspective of environmental sustainability,1,91,['XX Zhao']
-275,Do the Fama–French factors proxy for innovations in predictive variables?,2,909,['R Petkova']
-563,Is value riskier than growth?,2,905,"['L Zhang', 'R Petkova']"
-393,Financial markets and the real economy,2,901,['JH Cochrane']
-93,"Bad beta good beta, state‐space news decomposition and the cross‐section of stock returns",1,9,[]
-403,"Firm headquarters location, ownership structure, and stock return co-movements",1,9,[]
-808,"Volatility, distress risk, and the cross-section of portfolio returns",1,9,[]
-51,Aggregate Volatility and Market Jump Risk: An Option‐Based Explanation to Size and Value Premia,1,9,['YE Arisoy']
-790,Understanding the small business sector,1,8991,['DJ Storey']
-516,"Insider trading, earnings quality, and accrual mispricing",1,897,['MD Beneish']
-497,"Information asymmetry, information precision, and the cost of capital",1,890,['C Leuz']
-118,Book-to-market ratio and skewness of stock returns,1,89,['XJ Zhang']
-598,Mandatory CSR and sustainability reporting: Economic analysis and literature review,3,880,"['C Leuz', 'HB Christensen', 'L Hail']"
-644,Natural disasters and risk aversion,1,88,"['L Kryzanowski', 'M Bourdeau-Brien']"
-183,Corporate digital transformation and trade credit financing,1,88,[]
-375,Financial applications of machine learning: A literature review,1,88,['N Nazareth']
-12,A consumption‐based explanation of expected stock returns,1,874,['M Yogo']
-136,COVID–19s impact on stock prices across different sectors—An event study based on the Chinese stock market,1,871,['Y Sun']
-677,Option pricing when underlying stock returns are discontinuous,1,8701,[]
-724,Pricing an emerging industry: evidence from internet subsidiary carve-outs,1,87,['MJ Schill']
-244,"Disagreement, tastes, and asset prices",1,869,['KR French']
-336,Empirical pricing kernels,1,865,['RF Engle']
-594,Macroeconomic conditions and the puzzles of credit spreads and capital structure,1,862,['H Chen']
-788,Understanding commonality in liquidity around the world,2,861,"['MA Van Dijk', 'GA Karolyi']"
-712,Predicting future earnings changes using machine learning and detailed financial data,1,86,"['X Chen', 'Y Dou', 'B Lev', 'YH Cho']"
-35,"A survey on ESG: investors, institutions and firms",1,86,['PR Rau']
-825,Whats vol got to do with it,1,859,"['A Yaron', 'I Drechsler']"
-339,"Environmental, social and governance (ESG) scores and financial performance of multilatinas: Moderating effects of geographic international diversification and …",1,857,"['J Aguilera-Caracuel', 'E Duque-Grisales']"
-228,Decoding inside information,2,853,"['C Malloy', 'L Pomorski', 'L Cohen']"
-467,IQ and stock market participation,1,850,['M Grinblatt']
-616,Measuring the multi-faceted dimension of liquidity in financial markets: A literature review,2,85,"['A Díaz', 'A Escribano']"
-471,Idiosyncratic risk and security returns,1,845,[]
-21,A model of investor sentiment,4,8417,"['A Shleifer', 'N Barberis']"
-486,Income classification shifting and mispricing of core earnings,1,84,[]
-599,"Market efficiency, long-term returns, and behavioral finance",3,8366,[]
-355,"Excess cash, trading continuity, and liquidity risk",1,83,"['W Huang', 'K Mazouz']"
-829,Where is the risk in value? Evidence from a market‐to‐book decomposition,2,83,['A Golubov']
-551,Investor psychology and security market under‐and overreactions,6,8295,"['D Hirshleifer', 'K Daniel']"
-531,Intermediary asset pricing: New evidence from many asset classes,1,829,"['A Manela', 'B Kelly', 'Z He']"
-348,Evaluation of clustering algorithms for financial risk analysis using MCDM methods,1,829,"['G Kou', 'Y Peng']"
-794,Using and interpreting fixed effects models,1,82,"['E Dehaan', 'M Breuer']"
-107,Behavioral mediators of financial decision making–a state-of-art literature review,1,82,['DK Banwet']
-135,"COVID‐19, ESG investing, and the resilience of more sustainable stocks: Evidence from European firms",1,82,"['G Cardillo', 'E Bendinelli']"
-525,Intangible value,1,82,"['E Kim', 'D Papanikolaou', 'AL Eisfeldt']"
-545,Investments,8,8197,"['AJ Marcus', 'Z Bodie']"
-15,A flow-based explanation for return predictability,1,819,['D Lou']
-818,What factors drive global stock returns?,2,818,"['GA Karolyi', 'K Hou']"
-115,Boardroom centrality and firm performance,1,814,"['CCY Wang', 'EC So', 'DF Larcker']"
-32,A simple model of capital market equilibrium with incomplete information,1,8133,[]
-387,Financial distress prediction using integrated Z-score and multilayer perceptron neural networks,1,81,"['DL Olson', 'D Wu']"
-214,Country responses and the reaction of the stock market to COVID-19—A preliminary exposition,1,807,"['DHB Phan', 'PK Narayan']"
-610,Measuring abnormal bond performance,2,803,"['KM Kahle', 'H Bessembinder']"
-538,International stock return predictability: What is the role of the United States?,1,802,"['G Zhou', 'DE Rapach']"
-524,Intangible intensity and stock price crash risk,1,80,['K Wu']
-674,Optimal trading of a security when there are taxes and transaction costs,1,80,[]
-695,Policy uncertainty and stock market volatility revisited: the predictive role of signal quality,1,8,"['AA Salisu', 'R Demirer']"
-109,Best practices in factor research and factor models,1,8,[]
-237,Deviations from covered interest rate parity,3,796,"['A Verdelhan', 'W Du']"
-703,Political uncertainty and investment: Causal evidence from US gubernatorial elections,1,794,['CE Jens']
-166,Comparing the post–earnings announcement drift for surprises calculated from analyst and time series forecasts,1,793,"['J Livnat', 'RR Mendenhall']"
-246,Disaster on the horizon: The price effect of sea level rise,1,791,"['A Bernstein', 'R Lewis', 'MT Gustafson']"
-401,"Firm characteristics, governance mechanisms, and ESG disclosure: how caring about sustainable concerns?",2,79,"['U Razi', 'F Khalid']"
-675,Option coskewness and capital asset pricing,1,79,[]
-314,Earnings forecasting research: its implications for capital markets research,1,788,['LD Brown']
-91,Audit committee financial expertise and earnings management: The role of status,1,788,"['DC Donelson', 'M Ege']"
-466,"Human capital, bankruptcy, and capital structure",1,787,"['JB Berk', 'J Zechner', 'R Stanton']"
-140,Capital structure as a strategic variable: Evidence from collective bargaining,1,784,['DA Matsa']
-625,Modelling abnormal returns: A review article,1,783,['N Strong']
-90,Attention to global warming,1,777,"['W Jiang', 'Z Gao', 'D Choi']"
-554,Investor sentiment and the cross‐section of stock returns,7,7751,"['J Wurgler', 'M Baker']"
-814,What are the consequences of real earnings management?,2,770,['KA Gunny']
-763,Responding to diffused stakeholders on social media: Connective power and firm reactions to CSR-related Twitter messages,1,77,"['GD Saxton', 'C Guo', 'C Ren']"
-258,Diversification and portfolio theory: a review,1,77,['GB Koumou']
-5,A boosted decision tree approach using Bayesian hyper-parameter optimization for credit scoring,1,765,['Y Xia']
-345,Estimating the returns to insider trading: A performance-evaluation perspective,1,761,"['R Zeckhauser', 'A Metrick']"
-488,Independent boards and innovation,1,756,"['L Fleming', 'G Manso']"
-761,Religion and stock price crash risk,2,755,['X Fang']
-103,Behavioral finance,10,754,['D Hirshleifer']
-489,Individual investors and financial disclosure,2,748,['A Lawrence']
-180,"Contrarian investment, extrapolation, and risk",2,7428,['A Shleifer']
-350,Event study methods and evidence on their performance,1,740,[]
-743,R 2 and the Economy,1,74,"['B Yeung', 'R Morck']"
-158,Climate risks and market efficiency,3,739,"['J Xu', 'H Hong', 'FW Li']"
-142,Carbon tail risk,2,739,"['E Ilhan', 'G Vilkov', 'Z Sautner']"
-742,"Quantitative risk management: concepts, techniques and tools-revised edition",1,7388,"['AJ McNeil', 'R Frey']"
-17,A guide to modern econometrics,2,7383,['M Verbeek']
-274,Do stock prices fully reflect information in accruals and cash flows about future earnings?,1,7382,['RG Sloan']
-519,Institutional investor stability and crash risk: Monitoring versus short-termism?,2,735,['X Fang']
-98,Bankruptcy classification errors in the 1980s: An empirical analysis of Altmans and Ohlsons models,1,731,[]
-448,High-frequency trading: a practical guide to algorithmic strategies and trading systems,1,726,['I Aldridge']
-161,Common fund flows: Flow hedging and factor pricing,1,72,"['WW Dou', 'L Kogan', 'W Wu']"
-760,Regional economic activity and stock returns,1,72,['E Smajlbegovic']
-641,Mutual Funds R2 as Predictor of Performance,2,718,"['Y Amihud', 'R Goyenko']"
-263,Do insider trades reflect both contrarian beliefs and superior knowledge about future cash flow realizations?,1,718,"['DT Roulstone', 'JD Piotroski']"
-579,Liquidity risk and expected stock returns,6,7171,"['Ľ Pástor', 'RF Stambaugh']"
-493,"Infected markets: Novel coronavirus, government interventions, and stock return volatility around the globe",4,717,"['A Zaremba', 'DY Aharon', 'R Kizys', 'E Demir']"
-394,Financial reporting complexity and investor underreaction to 10-K information,2,713,"['X Zhang', 'H You']"
-222,Currency momentum strategies,1,712,"['L Menkhoff', 'L Sarno', 'M Schmeling']"
-501,Information uncertainty and expected returns,1,712,['CMC Lee']
-189,Corporate governance and board of directors: The effect of a board composition on firm sustainability performance,1,711,['V Naciti']
-706,Portfolio selection with higher moments,1,707,"['CR Harvey', 'JC Liechty']"
-72,Arbitrage risk and the book-to-market anomaly,1,706,['A Ali']
-75,Are busy boards detrimental?,1,706,"['L Field', 'M Lowry', 'A Mkrtchyan']"
-635,Money and the C-CAPM,2,70,"['D Huang', 'RJ Balvers']"
-38,A taxonomy of anomalies and their trading costs,4,699,"['R Novy-Marx', 'M Velikov']"
-407,Forecasting: theory and practice,5,698,"['D Apiletti', 'V Assimakopoulos', 'F Petropoulos']"
-224,Customer-base concentration: Implications for firm performance and capital markets: 2011 American accounting association competitive manuscript award winner,1,694,['PN Patatoukas']
-518,Institutional investment constraints and stock prices,1,69,"['Q Wang', 'B Han', 'J Cao']"
-621,Micro data and general equilibrium models,2,689,"['LP Hansen', 'JJ Heckman', 'M Browning']"
-433,Guiding through the fog: Financial statement complexity and voluntary disclosure,1,689,"['D Samuels', 'W Guay', 'D Taylor']"
-797,Value at risk: the new benchmark for managing financial risk,1,6862,['P Jorion']
-546,Investor activism and takeovers,1,686,['R Greenwood']
-785,"The effects of earnings quality, conservatism, and real earnings management on the companys performance and information asymmetry as a moderating variable",1,68,['NM Machdar']
-247,Disclosure level and the cost of equity capital,2,6782,['CA Botosan']
-384,"Financial distress and bankruptcy prediction among listed companies using accounting, market and macroeconomic variables",1,677,"['N Wilson', 'MH Tinoco']"
-137,Can Twitter help predict firm-level earnings and stock returns?,1,676,"['PS Mohanram', 'E Bartov', 'L Faurel']"
-29,A review of the post-earnings-announcement drift,4,67,[]
-612,Measuring innovation and product differentiation: Evidence from mutual funds,1,67,['L Kostovetsky']
-256,Dissecting green returns,4,669,"['Ľ Pástor', 'RF Stambaugh', 'LA Taylor']"
-106,Behavioral inattention,1,665,['X Gabaix']
-606,Market timing and capital structure,1,6630,"['J Wurgler', 'M Baker']"
-245,"Disagreement, underreaction, and stock returns",1,66,"['KCJ Wei', 'L Cen', 'L Yang']"
-600,Market liquidity and funding liquidity,1,6527,"['MK Brunnermeier', 'LH Pedersen']"
-254,Dissecting characteristics nonparametrically,10,652,"['J Freyberger', 'A Neuhierl']"
-76,Are disagreements agreeable? Evidence from information aggregation,1,65,"['D Huang', 'J Li']"
-457,How does ESG disclosure improve stock liquidity for enterprises—empirical evidence from China,1,65,[]
-124,By force of habit: A consumption-based explanation of aggregate stock market behavior,3,6490,"['JY Campbell', 'JH Cochrane']"
-568,Labor unemployment risk and corporate financing decisions,1,646,"['AK Agrawal', 'DA Matsa']"
-558,Is momentum really momentum?,1,641,['R Novy-Marx']
-37,A tale of values-driven and profit-seeking social investors,1,640,"['K Koedijk', 'J Derwall']"
-117,Bond variance risk premia,1,64,"['A Vedolin', 'Y Yen', 'P Mueller']"
-746,Ratings-driven demand and systematic price fluctuations,1,64,"['Y Song', 'J Li', 'A Rossi', 'I Ben-David']"
-219,Cross-sectional asset pricing tests,1,64,"['R Jagannathan', 'E Schaumburg']"
-564,It depends on where you search: Institutional investor attention and underreaction to news,1,639,"['A Ben-Rephael', 'Z Da']"
-371,Female board directorship and firm performance: What really matters?,1,638,"['H Nagati', 'M Bennouri', 'M Nekhili']"
-325,"Economic policy uncertainty, oil and stock markets in BRIC: Evidence from quantiles analysis",1,63,[]
-379,"Financial constraints, R&D investment, and stock returns",1,627,['D Li']
-204,"Corporate social responsibility, firm value, and influential institutional ownership",1,624,"['B Buchanan', 'C Chen']"
-42,ABCs of trading: Behavioral biases affect stock turnover and value,1,62,['J Itzkowitz']
-362,"Extended dividend, cash flow, and residual income valuation models: Accounting for deviations from ideal conditions",2,62,['D Hess']
-464,How valuable is financial flexibility when revenue stops? Evidence from the COVID-19 crisis,1,618,['R Fahlenbrach']
-196,Corporate political connections and tax aggressiveness,1,610,"['L Zhang', 'C Kim']"
-33,A survey of behavioral finance,1,6077,"['R Thaler', 'N Barberis']"
-1,A Survey of Behavioral Finance,5,6070,['N Barberis']
-556,Is accruals quality a priced risk factor?,1,604,"['WR Guay', 'R Verdi', 'JE Core']"
-611,Measuring and testing the impact of news on volatility,1,6032,['RF Engle']
-810,Volatility-of-volatility and tail risk hedging returns,1,60,['YH Park']
-791,Understanding the term structure of credit default swap spreads,1,60,"['B Han', 'Y Zhou']"
-236,"Determinants of earnings forecast error, earnings forecast revision and earnings forecast accuracy",1,6,[]
-619,"Media coverage, real earnings management, and long-run market performance: Evidence from Chinese IPOs",1,6,[]
-357,Expected stock returns and volatility,1,5989,"['KR French', 'RF Stambaugh', 'GW Schwert']"
-92,Audit reporting for going-concern uncertainty: A research synthesis,1,598,"['E Carson', 'NL Fargher', 'MA Geiger']"
-181,Controlled Markov processes and viscosity solutions,1,5976,['HM Soner']
-108,Behavioural finance: A review and synthesis,2,597,['A Subrahmanyam']
-722,Priced risk in corporate bonds,3,59,"['P Mueller', 'A Dickerson']"
-716,Prediction of financial distress: An empirical study of listed Chinese companies using data mining,1,589,"['X Chen', 'R Geng']"
-596,Manager sentiment and stock returns,2,588,"['G Zhou', 'X Martin', 'F Jiang', 'J Lee']"
-41,"A unified theory of underreaction, momentum trading, and overreaction in asset markets",4,5871,"['H Hong', 'JC Stein']"
-288,Does realized skewness predict the cross-section of equity returns?,2,587,"['K Jacobs', 'D Amaya']"
-687,Parametric portfolio policies: Exploiting characteristics in the cross-section of equity returns,1,587,['P Santa-Clara']
-745,R&D and the incentives from merger and acquisition activity,1,587,"['GM Phillips', 'A Zhdanov']"
-796,Value and growth investing: Review and update,4,586,['LKC Chan']
-789,"Understanding earnings quality: A review of the proxies, their determinants and their consequences",9,5826,"['W Ge', 'C Schrand', 'P Dechow']"
-202,Corporate social responsibility as an employee governance tool: Evidence from a quasi‐experiment,1,574,"['J Luo', 'C Flammer']"
-548,Investor attention and stock market volatility,2,572,"['M Hasler', 'D Andrei']"
-673,Optimal option portfolio strategies: Deepening the puzzle of index option mispricing,1,57,"['P Santa-Clara', 'JA Faias']"
-449,Higher-order moment risk connectedness and optimal investment strategies between international oil and commodity futures markets: Insights from the COVID-19 …,1,57,"['A Maghyereh', 'J Cui']"
-704,Politically connected firms,1,5686,['M Faccio']
-309,ESG rating disagreement and stock returns,8,567,['P Krueger']
-335,"Empirical evidence on capital investment, growth options, and security returns",1,567,"['L Garcia‐Feijoo', 'CW Anderson']"
-97,Banking sector performance during the COVID-19 crisis,1,564,"['A Demirgüç-Kunt', 'C Ruiz-Ortega', 'A Pedraza']"
-630,"Momentum profits, factor pricing, and macroeconomic risk",1,561,['L Zhang']
-822,What matters in corporate governance?,1,5608,"['A Cohen', 'L Bebchuk']"
-230,Deep learning and the cross-section of expected returns,1,56,[]
-168,"Competition, profitability, and discount rates",1,55,"['WW Dou', 'W Wu', 'Y Ji']"
-586,Long-term discount rates do not vary across firms,1,55,['JT Linnainmaa']
-517,Institutional industry herding,1,549,"['RW Sias', 'N Choi']"
-68,Applications of deep learning in stock market prediction: recent progress,1,544,['W Jiang']
-261,Do corporate taxes hinder innovation?,2,542,"['M Singh', 'A Mukherjee', 'A Žaldokas']"
-405,Firm‐level climate change exposure,4,542,"['L Van Lent', 'G Vilkov', 'Z Sautner']"
-432,"Greenwashing in environmental, social and governance disclosures",2,541,"['EP Yu', 'B Van Luu']"
-304,Dynamic asset pricing theory,3,5405,['D Duffie']
-557,Is business saving really none of our business?,1,54,"['R Bebczuk', 'E Cavallo']"
-133,COVID-19 pandemic & financial market volatility; evidence from GARCH models,2,54,"['M Khan', 'UN Kayani']"
-603,Market skewness risk and the cross section of stock returns,3,539,"['K Jacobs', 'BY Chang']"
-769,Returns to contrarian investment strategies: Tests of naive expectations hypotheses,1,538,"['PM Dechow', 'RG Sloan']"
-311,ESG shareholder engagement and downside risk,1,537,"['AGF Hoepner', 'I Oikonomou', 'Z Sautner']"
-660,"Oil shocks, policy uncertainty and stock market return",1,535,"['W Kang', 'RA Ratti']"
-415,From state to market: A survey of empirical studies on privatization,1,5331,"['JM Netter', 'WL Megginson']"
-533,International accounting standards and accounting quality,1,5321,"['WR Landsman', 'ME Barth']"
-740,Quadratic shrinkage for large covariance matrices,1,53,"['M Wolf', 'O Ledoit']"
-755,Real effects of financial reporting and disclosure on innovation,1,53,['A Tamayo']
-522,Intangible assets–insights from a literature review,1,53,['ME Nichita']
-609,Matching and the changing properties of accounting earnings over the last 40 years,1,529,"['VW Tang', 'ID Dichev']"
-428,Good and bad uncertainty: Macroeconomic and financial market implications,5,525,"['I Shaliastovich', 'G Segal', 'A Yaron']"
-811,Volatility‐managed portfolios,1,523,['A Moreira t Muir']
-113,Bitcoin and portfolio diversification: A portfolio optimization approach,2,52,['W Bakry']
-656,"Non‐fungible tokens (NFTs): A review of pricing determinants, applications and opportunities",1,52,"['R Kräussl', 'A Tugnetti']"
-333,Empirical asset pricing: Models and methods,2,52,['W Ferson']
-544,Investment performance of common stocks in relation to their price‐earnings ratios: A test of the efficient market hypothesis,1,5196,[]
-532,International Series in Operations Research & Management Science,4,5165,[]
+436,Has increased prominence of translation results changed net investment hedging practice?,1,1,['B Marshall']
+495,"Information Quality, Heterogenous Beliefs and Asset Pricing",2,1,['Z Qin']
+299,Dont Get Carried Away: Uncovering Macro Characteristics in Carry Portfolios,1,1,[]
+377,Financial constraints and security issuance,1,1,[]
+671,Optimal Domestic Equity Allocations for Australian Investors and the Role of Franking Credits,1,1,[]
+744,R&D Expenditures and Idiosyncratic Risk: Good and Bad Volatility,1,1,[]
+366,Fair value accounting impact on decision-usefulness of accounting information: evidence from accounting standards update 2016–01 on the US insurance industry,1,10,[]
+456,How do you capture liquidity? A review of the literature on low‐frequency stock liquidity,4,100,"['H Le', 'A Gregoriou']"
+582,"Local religious norms, corporate social responsibility, and firm value",1,100,"['Y Chen', 'L Zolotoy', 'D Osullivan']"
+595,Man versus machine learning: The term structure of earnings expectations and conditional biases,1,100,"['X Han', 'JH Van Binsbergen']"
+70,Arbitrage asymmetry and the idiosyncratic volatility puzzle,8,1000,"['J Yu', 'RF Stambaugh', 'Y Yuan']"
+353,Ex ante skewness and expected stock returns,3,1005,"['J Conrad', 'E Ghysels', 'RF Dittmar']"
+167,"Competition, markups, and predictable returns",1,102,"['A Corhay', 'H Kung', 'L Schmid']"
+27,A review of the earnings management literature and its implications for standard setting,2,10214,"['PM Healy', 'JM Wahlen']"
+77,Are financial assets priced locally or globally?,5,1025,"['RM Stulz', 'GA Karolyi']"
+319,Earnings quality and stock returns,1,1028,"['K Chan', 'N Jegadeesh']"
+638,Multifactor explanations of asset pricing anomalies,2,10284,['KR French']
+341,Equity volatility term structures and the cross section of option returns,1,103,['A Vasquez']
+691,Performance characteristics of hedge funds and commodity funds: Natural vs. spurious biases,1,1031,['DA Hsieh']
+779,Risks and returns of cryptocurrency,4,1044,"['Y Liu', 'A Tsyvinski']"
+679,Organization capital and the cross‐section of expected returns,1,1053,"['D Papanikolaou', 'AL Eisfeldt']"
+515,Insider trading controversies: A literature review,1,106,['U Bhattacharya']
+552,Investor sentiment aligned: A powerful predictor of stock returns,5,1061,"['D Huang', 'J Tu', 'G Zhou', 'F Jiang']"
+152,Choosing factors,4,1062,['KR French']
+510,Innovative efficiency and stock returns,5,1068,"['PH Hsu', 'D Li', 'D Hirshleifer']"
+385,Financial distress and its determinants: Evidence from insurance companies in Ethiopia,1,107,[]
+332,Emerging markets finance,1,1076,"['CR Harvey', 'G Bekaert']"
+138,Can time‐varying risk of rare disasters explain aggregate stock market volatility?,1,1081,['JA Wachter']
+177,Consumption-based asset pricing,2,1082,['JY Campbell']
+349,Event studies: A review of issues and methodology,1,1086,['PP Peterson']
+654,"Nonlinear pricing kernels, kurtosis preference, and evidence from the cross section of equity returns",2,1089,['RF Dittmar']
+459,How does telecommunications infrastructure affect eco-efficiency? Evidence from a quasi-natural experiment in China,1,109,"['H Wu', 'Y Hao', 'M Irfan']"
+643,Narrative economics: How stories go viral and drive major economic events,2,1096,[]
+739,Puzzles in international financial markets,2,1099,['KK Lewis']
+294,Does the market understand time variation in the equity premium?,1,11,"['NJ Gormsen', 'E Lazarus']"
+79,Are investors overconfident,1,11,['C Vega']
+756,Real-time profitability of published anomalies: An out-of-sample test,1,11,"['Z Huang', 'JZ Huang']"
+342,Essays in financial economics,15,11,['K Li']
+149,Changes in Risk Factor Disclosures and the Variance Risk Premium.,1,11,"['MR Lyle', 'F Siano', 'EJ Riedl']"
+356,Expected idiosyncratic volatility measures and expected returns,1,110,"['H He', 'JD Fink']"
+640,Multivariate tests of financial models: A new approach,1,1102,[]
+539,International tests of a five-factor asset pricing model,1,1103,['KR French']
+144,Carry trades and global foreign exchange volatility,3,1105,"['L Menkhoff', 'L Sarno', 'M Schmeling']"
+329,Efficient capital markets: II,12,11065,[]
+130,COVID-19 and the march 2020 stock market crash. Evidence from S&P1500,1,1108,"['M Vega', 'M Mazur', 'M Dang']"
+182,Corporate bond liquidity before and after the onset of the subprime crisis,1,1116,"['J Dick-Nielsen', 'D Lando', 'P Feldhütter']"
+26,A review of capital asset pricing models,1,112,['DUA Galagedera']
+359,Explaining the recent failure of value investing,1,112,"['B Lev', 'A Srivastava']"
+374,Financial Distress Prediction in an International Context: A Review and Empirical Analysis of Altmans Z‐Score Model,4,1131,['M Iwanicz‐Drozdowska']
+238,Differences between politically connected and nonconnected firms: A cross‐country analysis,2,1137,['M Faccio']
+478,Impact of ethical screening on investment performance: the case of the Dow Jones Islamic Index,1,114,['A Hassan']
+206,Corporate takeovers and economic efficiency,1,114,['BE Eckbo']
+732,"Product market threats, payouts, and financial flexibility",2,1140,"['G Phillips', 'G Hoberg', 'N Prabhala']"
+496,"Information asymmetry, corporate disclosure, and the capital markets: A review of the empirical disclosure literature",1,11415,"['PM Healy', 'KG Palepu']"
+102,Behavioral economics of accounting: A review of archival research on individual decision makers,1,115,"['K Yeung', 'L Zuo', 'M Hanlon']"
+53,Aggregate earnings and why they matter✩,1,115,"['R Ball', 'G Sadka']"
+170,Conditioning variables and the cross section of stock returns,2,1157,"['WE Ferson', 'CR Harvey']"
+512,Input specificity and the propagation of idiosyncratic shocks in production networks,2,1160,"['JN Barrot', 'J Sauvagnat']"
+119,"Book‐to‐market equity, distress risk, and stock returns",1,1160,"['ML Lemmon', 'JM Griffin']"
+191,Corporate governance and equity prices,5,11690,"['A Metrick', 'P Gompers']"
+305,Dynamic corporate liquidity,1,117,"['L Schmid', 'B Nikolov']"
+614,Measuring liquidity in emerging markets,1,117,"['W Kang', 'H Zhang']"
+266,"Do macro variables, asset markets, or surveys forecast inflation better?",1,1172,"['G Bekaert', 'A Ang', 'M Wei']"
+680,Organizational transparency: A new perspective on managing trust in organization-stakeholder relationships,1,1173,"['EC Tomlinson', 'AK Schnackenberg']"
+6,A closed-form solution for options with stochastic volatility with applications to bond and currency options,2,11741,[]
+423,Generous charity to preserve green image? Exploring linkage between strategic donations and environmental misconduct,1,118,"['B Wu', 'A Monfort']"
+487,Income hedging and portfolio decisions,1,118,"['Y Bonaparte', 'A Kumar', 'GM Korniotis']"
+312,"ESG, liquidity, and stock returns",3,118,['D Luo']
+34,A survey of systemic risk analytics,3,1188,['M Flood']
+28,A review of the empirical disclosure literature: discussion,2,1192,['JE Core']
+577,Liquidity and asset prices,2,1195,['Y Amihud']
+657,Numerical methods for unconstrained optimization and nonlinear equations,1,11985,['JE Dennis Jr']
+521,Institutional trading around corporate news: Evidence from textual analysis,1,12,"['AG Huang', 'H Tan', 'R Wermers']"
+388,"Financial distress, prediction, and strategies by firms: A systematic review of literature",1,12,"['EB Mallinguh', 'Z Zéman']"
+13,A decomposition of conditional risk premia and implications for representative agent models,1,12,"['F Chabi-Yo', 'JA Loudis']"
+370,Feedback trading: a review of theory and empirical evidence,1,12,"['B Gebka', 'F Economou', 'K Gavriilidis']"
+690,Pension accounting and research: a review,1,120,[]
+523,Intangible capital and the investment-q relation,1,1200,"['RH Peters', 'LA Taylor']"
+465,Human behavior and the efficiency of the financial system,1,1201,[]
+833,Why do investors hold socially responsible mutual funds?,1,1203,"['P Smeets', 'A Riedl']"
+585,Long-run risk and the persistence of consumption shocks,2,121,"['C Tebaldi', 'F Ortu', 'A Tamoni']"
+151,Chasing private information,1,121,"['ES Pagnotta', 'M Kacperczyk']"
+707,Positive accounting theory,1,12140,"['JL Zimmerman', 'RL Watts']"
+315,"Earnings management, firm performance, and the value of Indian manufacturing firms",1,122,['HS Mand']
+801,Variable rare disasters: An exactly solved framework for ten puzzles in macro-finance,1,1221,['X Gabaix']
+830,Which shorts are informed?,1,1223,"['CM Jones', 'X Zhang', 'E Boehmer']"
+253,Dissecting anomalies with a five-factor model,2,1227,['KR French']
+280,Does corporate eco-innovation affect stock price crash risk?,1,123,"['M Nadeem', 'M Haseeb', 'R Zaman', 'N Atawnah']"
+491,Industry concentration and average stock returns,1,1233,"['K Hou', 'DT Robinson']"
+573,Learning optimized risk scores,1,124,"['C Rudin', 'B Ustun']"
+364,Factor momentum,1,125,[]
+56,An empirical analysis of illegal insider trading,1,1250,[]
+192,Corporate governance and firm performance,1,1256,"['ML Caylor', 'LD Brown']"
+57,An empirical evaluation of accounting income numbers,3,12644,"['R Ball', 'P Brown']"
+327,Efficiency and the bear: Short sales and markets around the world,1,1265,"['N Zhu', 'A Bris', 'WN Goetzmann']"
+821,What makes firms vulnerable to the Russia–Ukraine crisis?,2,127,"['DK Pandey', 'W Abbassi', 'V Kumari']"
+184,Corporate distress and turnaround: integrating the literature and directing future research,1,127,[]
+101,Bankruptcy prediction using support vector machine with optimal choice of kernel function parameters,1,1272,['YC Lee']
+83,Asset pricing at the millennium,7,1273,['JY Campbell']
+587,Low-risk investing without industry bets,1,128,"['A Frazzini', 'LH Pedersen']"
+126,CAPM: an absurd model,1,128,['P Fernandez']
+308,ESG performance and firm value: The moderating role of disclosure,3,1287,[]
+302,Dumb money: Mutual fund flows and the cross-section of stock returns,1,1289,['A Frazzini']
+636,"More than a feeling: Confidence, uncertainty, and macroeconomic fluctuations",1,129,['L Nowzohour']
+296,Does the stock market overreact?,3,12938,['R Thaler']
+30,A risk/return paradox for strategic management,1,1298,[]
+442,Herding in smart-beta investment products,1,13,"['E Krkoska', 'KR Schenk-Hoppé']"
+826,When and how is voluntary disclosure quality reflected in equity prices?,2,13,['F Eugster']
+408,Foreign ownership and stock liquidity uncertainty,1,13,"['R Faff', 'H Zhang']"
+735,"Profitability, audit quality, and firm value: Case on Indonesian manufacturing companies",1,13,['AL Wijaya']
+762,Replicating anomalies,67,1311,"['L Zhang', 'K Hou', 'C Xue']"
+360,Explanations for the volatility effect: An overview based on the CAPM assumptions,1,132,"['D Blitz', 'P Van Vliet']"
+725,Pricing climate change exposure,1,132,"['L Van Lent', 'G Vilkov', 'Z Sautner']"
+16,A framework for understanding and researching audit quality,1,1322,['JR Francis']
+439,Hedge fund benchmarks: A risk-based approach,1,1335,['DA Hsieh']
+64,Analysts and anomalies,1,134,"['J Pontiff', 'J Engelberg', 'RD McLean']"
+474,Illiquidity and stock returns: cross-section and time-series effects,9,13405,['Y Amihud']
+383,Financial development and economic growth: views and agenda,1,13431,['R Levine']
+651,Nominal rigidities and asset pricing,1,135,['M Weber']
+193,"Corporate governance, product market competition, and equity prices",2,1353,"['X Giroud', 'HM Mueller']"
+344,Estimating standard errors in finance panel data sets: Comparing approaches,2,13563,['MA Petersen']
+637,Multi-period corporate default prediction with stochastic covariates,1,1362,"['K Wang', 'D Duffie']"
+300,Dotcom mania: The rise and fall of internet stock prices,2,1377,['M Richardson']
+734,Production-based measures of risk for asset pricing,1,138,['F Belo']
+748,Rationality and analysts forecast bias,1,1381,[]
+571,Large sample sieve estimation of semi-nonparametric models,2,1392,['X Chen']
+176,Consumer confidence and asset prices: Some empirical evidence,1,1394,['M Lemmon']
+469,Idiosyncratic information and the cost of equity capital: A meta-analytic review of the literature,1,14,['M Schreder']
+340,Equilibrium asset pricing under the Lévy process with stochastic volatility and moment risk premiums,1,14,"['J Huang', 'X Ruan', 'JE Zhang']"
+211,Costly external equity: implications for asset pricing anomalies,1,14,['E Li']
+784,The development of Chinas stock market and stakes for the global economy,1,140,"['JN Carpenter', 'RF Whitelaw']"
+337,Empirical tests of asset pricing models with individual assets: Resolving the errors-in-variables bias in risk premium estimation,1,140,"['J Noh', 'K Pukthuanthong', 'N Jegadeesh']"
+629,Momentum investing and business cycle risk: Evidence from pole to pole,1,1408,"['JS Martin', 'X Ji', 'JM Griffin']"
+605,Market tests of capital adequacy of large commercial banks,1,141,[]
+498,Information content of equity analyst reports,1,1410,"['P Asquith', 'MB Mikhail']"
+737,"Prospect theory, mental accounting, and momentum",2,1426,"['M Grinblatt', 'B Han']"
+747,Rational contagion and the globalization of securities markets,1,1428,"['EG Mendoza', 'GA Calvo']"
+805,Volatility and the cross-section of corporate bond returns,2,143,"['KH Chung', 'C Wu']"
+527,Integrating corporate social responsibility criteria into executive compensation and firm innovation: International evidence,1,143,"['A Tsang', 'KT Wang']"
+229,Decomposing firm value,1,144,"['MA Vitorino', 'F Belo', 'VD Gala', 'J Salomao']"
+18,A labor capital asset pricing model,2,145,"['LA Kuehn', 'JJ Wang', 'M Simutin']"
+836,Wisdom of crowds: The value of stock opinions transmitted through social media,1,1453,"['BH Hwang', 'H Chen', 'P De', 'Y Hu']"
+225,Dealer versus auction markets: A paired comparison of execution costs on NASDAQ and the NYSE,1,1456,[]
+19,A liquidity-augmented capital asset pricing model,3,1457,[]
+736,"Profitability, investment and average returns",2,1469,['KR French']
+475,Immunizing markets against the pandemic: COVID-19 vaccinations and stock volatility around the world,1,147,"['A Zaremba', 'E Demir', 'R Kizys', 'W Rouatbi']"
+43,Accounting accruals and auditor reporting conservatism,1,1475,"['J Krishnan', 'JR Francis']"
+604,Market states and momentum,1,1487,"['RC Gutierrez Jr', 'MJ Cooper']"
+583,Local return factors and turnover in emerging stock markets,1,1489,['KG Rouwenhorst']
+100,Bankruptcy prediction in banks and firms via statistical and intelligent techniques–A review,1,1495,"['V Ravi', 'PR Kumar']"
+663,On stock market returns and monetary policy,1,1498,[]
+509,"Innovations in interest rates, duration transformation, and bank stock returns",1,153,[]
+561,Is the risk of bankruptcy a systematic risk?,1,1530,['ID Dichev']
+162,Common risk factors in bank stocks,1,154,"['JW Kolari', 'DR Fraser', 'AM Viale']"
+420,Game on: Social networks and markets,1,154,['LH Pedersen']
+156,"Climate change, risk factors and stock returns: A review of the literature",8,155,['A Venturini']
+800,Value-relevance of corporate social responsibility: Evidence from short selling,1,155,"['PK Jain', 'Z Rezaee', 'A Jain']"
+733,Production networks and stock returns: The role of vertical creative destruction,1,156,"['M Gofman', 'Y Wu', 'G Segal']"
+301,Downside risk,3,1560,"['Y Xing', 'J Chen', 'A Ang']"
+391,"Financial literacy, retirement planning and household wealth",1,1562,"['RJM Alessie', 'A Lusardi', 'MCJ Van Rooij']"
+667,On the industry concentration of actively managed equity mutual funds,1,1567,"['C Sialm', 'M Kacperczyk', 'L Zheng']"
+514,Inside the investors brain: The power of mind over money,1,157,[]
+549,Investor attention and stock returns,1,157,"['G Zhou', 'G Tang']"
+472,Idiosyncratic risk and the cross-section of expected stock returns,1,1582,['F Fu']
+358,Experimental research in financial accounting,2,1586,"['MW Nelson', 'R Bloomfield', 'R Libby']"
+490,Industries and stock return reversals,1,159,"['A Hameed', 'GM Mian']"
+578,Liquidity and expected returns: Lessons from emerging markets,1,1594,"['CR Harvey', 'G Bekaert']"
+297,Does the volatility of volatility risk forecast future stock returns?,1,16,"['X Fu', 'R Bu', 'F Jawadi']"
+418,Further tests of the ZCAPM asset pricing model,2,16,"['JW Kolari', 'JZ Huang']"
+121,Breadth of ownership and stock returns,2,1602,"['H Hong', 'J Chen', 'JC Stein']"
+753,Real earnings management and future performance,1,162,"['MS Nazir', 'A Kaleem']"
+731,Product market power and stock market liquidity,1,162,['JR Kale']
+324,Economic links and predictable returns,1,1623,"['A Frazzini', 'L Cohen']"
+840,… and the cross-section of expected returns,207,1628,"['Y Liu', 'CR Harvey', 'H Zhu']"
+365,Factor momentum everywhere,1,163,['BT Kelly']
+684,"Ownership structure, deregulation, and bank risk taking",1,1638,"['A Saunders', 'NG Travlos']"
+363,Extreme downside risk and expected stock returns,1,165,[]
+239,Differences in herding: Individual vs. institutional investors,1,165,[]
+602,Market microstructure: A survey,4,1658,[]
+655,Non‐GAAP earnings disclosure in loss firms,1,166,"['D Veenman', 'E Leung']"
+778,Risks and portfolio decisions involving hedge funds,3,1665,['V Agarwal']
+23,A new approach to measuring financial contagion,1,1667,"['RM Stulz', 'GA Karolyi', 'KH Bae']"
+381,Financial decision-making in markets and firms: A behavioral perspective,2,1669,['RH Thaler']
+618,"Media coverage of firms: Background, integration, and directions for future research",1,168,['AG Oliver']
+372,"Female directors, capital structure, and financial distress",1,168,"['CJ García', 'B Herrero']"
+473,Idiosyncratic risk matters!,2,1685,"['P Santa‐Clara', 'A Goyal']"
+530,Intermediary asset pricing,1,1686,"['Z He', 'A Krishnamurthy']"
+48,"Accounting valuation, market expectation, and cross-sectional stock returns",1,1696,"['CMC Lee', 'R Frankel']"
+66,Another look at momentum crashes: momentum in the European Monetary Union,1,17,['K Grobys']
+749,Re-evaluating portfolio diversification and design using cryptocurrencies: Are decentralized cryptocurrencies enough?,2,17,"['A Khaki', 'W Bakry', 'M Prasad']"
+719,Price discovery in CDS and equity markets: Default risk-based heterogeneity in the systematic investment grade and high yield sectors,1,17,['WJ Procasky']
+255,Dissecting climate risks: Are they reflected in stock prices?,1,171,"['R Faccini', 'R Matin', 'G Skiadopoulos']"
+85,Asset pricing tests with long-run risks in consumption growth,2,171,[]
+812,"Voluntary disclosure, earnings quality, and cost of capital",2,1712,"['P Olsson', 'D Nanda']"
+145,Cash flow patterns as a proxy for firm life cycle,1,1713,['V Dickinson']
+205,Corporate sustainability: First evidence on materiality,1,1716,"['G Serafeim', 'A Yoon']"
+159,"Commercial bank net interest margins, default risk, interest-rate risk, and off-balance sheet banking",1,1719,[]
+131,COVID-19 effects on the S&P 500 index,1,172,['H Yilmazkuday']
+94,"Bad beta, good beta",2,1722,['JY Campbell']
+542,International variations in ESG disclosure–do cross-listed companies care more?,2,173,"['EP Yu', 'B Van Luu']"
+648,Networks in production: Asset pricing implications,1,173,['B Herskovic']
+461,How much of the corporate-treasury yield spread is due to credit risk?,1,1730,['JZ Huang']
+450,"House prices, home equity–based borrowing, and the us household leverage crisis",1,1730,"['A Sufi', 'A Mian']"
+454,How do house prices affect consumption? Evidence from micro data,1,1731,"['JY Campbell', 'JF Cocco']"
+122,Bubbles for fama,1,174,"['A Shleifer', 'Y You', 'R Greenwood']"
+281,Does crackdown on corruption reduce stock price crash risk? Evidence from China,1,174,"['Y Xie', 'Y Chen']"
+650,New low-frequency spread measures,1,174,['CW Holden']
+832,Why and how investors use ESG information: Evidence from a global survey,1,1748,"['G Serafeim', 'A Amel-Zadeh']"
+278,Does academic research destroy stock return predictability?,4,1753,"['J Pontiff', 'RD McLean']"
+792,Universal banking and firm risk-taking,1,177,"['K John', 'A Saunders']"
+588,Low‐risk anomalies?,1,178,"['P Schneider', 'C Wagner', 'J Zechner']"
+589,Machine learning for stock selection,1,178,[]
+783,Stock markets reaction to money supply: A nonparametric analysis,2,18,['A Taamouti']
+477,Impact of earnings management on working capital management efficiency,1,18,"['PC Padhan', 'KS Sawarni']"
+417,Funding black high-growth startups,1,18,"['M Marx', 'E Yimfor', 'LD Cook']"
+560,Is the renminbi a safe-haven currency? Evidence from conditional coskewness and cokurtosis,1,18,['Y Zhou']
+540,International tests of the ZCAPM asset pricing model,2,18,"['JW Kolari', 'HA Butt', 'JZ Huang']"
+185,Corporate diversification and stock risk: Evidence from a global shock,1,18,['E Onali']
+271,Do politically connected boards affect firm value?,2,1810,['E Goldman']
+78,Are insider trades informative?,1,1814,['I Lee']
+249,Discretionary-accruals models and audit qualifications,1,1815,['E Bartov']
+267,Do managers disclose or withhold bad news? Evidence from short interest,1,182,"['Y Kim', 'L Su', 'GM Mian', 'D Bao']"
+430,Goodwill impairment: The effects of public enforcement and monitoring by institutional investors,1,182,['WR Landsman']
+378,Financial constraints and stock returns,1,1820,['C Polk']
+8,A comparative analysis of current credit risk models,1,1821,['D Galai']
+781,Risks for the long run: Estimation with time aggregation,2,183,"['D Kiku', 'R Bansal', 'A Yaron']"
+200,Corporate social responsibility and firm risk: Theory and empirical evidence,4,1830,"['R Albuquerque', 'Y Koskinen']"
+652,Non-normal data: Is ANOVA still a valid option?,1,1831,['MJ Blanca Mena']
+71,Arbitrage pricing theory and utility stock returns,2,184,[]
+798,Value investing: The use of historical financial statement information to separate winners from losers,5,1841,['JD Piotroski']
+265,Do liquidity measures measure liquidity?,2,1845,"['CA Trzcinka', 'RY Goyenko', 'CW Holden']"
+647,"Neoclassical finance, behavioral finance and noise traders: A review and assessment of the literature",1,185,['V Ramiah']
+764,Restoring trust after fraud: Does corporate governance matter?,1,1850,['DB Farber']
+413,Fraudulent financial reporting: Consideration of industry traits and corporate governance mechanisms,1,1858,"['MS Beasley', 'DR Hermanson', 'JV Carcello']"
+485,In short supply: Short-sellers and stock returns,1,186,"['DC Nichols', 'MD Beneish', 'CMC Lee']"
+81,Artificial intelligence and machine learning in finance: A bibliometric review,2,187,['MM Alshater']
+252,Dissecting anomalies in Islamic stocks: Integrated or segmented pricing?,1,19,"['A Zaremba', 'A Maydybura', 'A Karathanasopoulos']"
+505,"Informed trade, uninformed trade and stock price delay",1,19,['Q Wu']
+11,A comprehensive study of liquidity before and after SEOs and SEO underpricing,1,19,['KCJ Wei']
+664,On the Choi–Lam analogue of Hilberts 1888 theorem for symmetric forms,1,19,['B Reznick']
+685,Panel data models with interactive fixed effects,1,1907,['J Bai']
+536,International differences in the cost of equity capital: Do legal institutions and securities regulation matter?,2,1908,"['C Leuz', 'L Hail']"
+330,Electricity price forecasting: A review of the state-of-the-art with a look into the future,1,1932,['R Weron']
+529,Interest-rate risk and the pricing of depository financial intermediary common stock: Empirical evidence,1,194,[]
+729,Product market competition and industry returns,1,194,[]
+819,What is the Expected Return on a Stock?,1,196,"['C Wagner', 'IWR Martin']"
+334,Empirical cross-sectional asset pricing: a survey,3,197,['A Goyal']
+65,Anomalies and market efficiency,10,1970,['GW Schwert']
+777,"Risk, return, and equilibrium: Empirical tests",4,19757,[]
+153,Christopher,1,1996,[]
+581,Local equity market participation and stock liquidity,2,2,['L Zhang']
+0,A Better Estimate of Internally Generated Intangible Capital,1,2,"['A Iqbal', 'A Srivastava']"
+807,"Volatility, Duration, and Value-At-Risk",1,2,[]
+806,Volatility in international stock markets: An empirical study during COVID-19,1,201,"['P Bakhshi', 'H Gupta', 'R Chaudhary']"
+63,Analyst coverage and earnings management,1,2017,['FF Yu']
+670,Opportunism as a firm and managerial trait: Predicting insider trading profits and misconduct,1,202,"['U Ali', 'D Hirshleifer']"
+676,Option prices leading equity prices: Do option traders have an information advantage?,1,202,"['J Livnat', 'Y Zhang']"
+114,"Block ownership, trading activity, and market liquidity",1,203,"['P Brockman', 'DY Chung', 'XS Yan']"
+260,Do board gender quotas affect firm value? Evidence from California Senate Bill No. 826,1,203,"['KM Kahle', 'D Greene', 'VJ Intintoli']"
+264,Do institutional investors prefer near‐term earnings over long‐run value?,1,2035,['BJ Bushee']
+82,Asset growth and the cross‐section of stock returns,4,2045,"['MJ Schill', 'MJ Cooper', 'H Gulen']"
+601,Market liquidity as a sentiment indicator,2,2047,"['JC Stein', 'M Baker']"
+768,Returns of claims on the upside and the viability of U-shaped pricing kernels,2,205,"['D Madan', 'G Bakshi', 'G Panayotov']"
+226,Death and jackpot: Why do individual investors hold overpriced stocks?,1,205,"['N Kapadia', 'J Conrad', 'Y Xing']"
+116,Bond risk premia,1,2057,"['JH Cochrane', 'M Piazzesi']"
+441,"Herding behaviour in energy stock markets during the Global Financial Crisis, SARS, and ongoing COVID-19",1,206,"['M McAleer', 'CL Chang']"
+803,"Variance risk premia, asset predictability puzzles, and macroeconomic uncertainty",1,206,['H Zhou']
+416,Fundamental information analysis,1,2077,['B Lev']
+160,Common auditors in M&A transactions,1,209,"['Y Kim', 'Y Cai', 'HD White', 'JC Park']"
+194,Corporate green innovation and stock liquidity in China,1,21,[]
+666,On the estimation of beta-pricing models,1,2104,['J Shanken']
+480,Implications of security market data for models of dynamic economies,1,2105,"['LP Hansen', 'R Jagannathan']"
+831,Who gambles in the stock market?,1,2107,['A Kumar']
+504,Informed options trading prior to takeover announcements: Insider trading?,1,211,"['P Augustin', 'M Brenner']"
+270,Do non–audit service fees impair auditor independence? Evidence from going concern audit opinions,1,2137,"['ML DeFond', 'K Raghunandan']"
+613,Measuring investor sentiment,1,216,['G Zhou']
+500,Information linkages and correlated trading,1,218,"['P Colla', 'A Mele']"
+446,High idiosyncratic volatility and low returns: International and further US evidence,1,2186,"['Y Xing', 'X Zhang', 'A Ang', 'RJ Hodrick']"
+201,Corporate social responsibility and the term structure of CDS spreads,1,22,"['Y Li', 'F Gao', 'ZK Zhong', 'X Wang']"
+653,Non-standard errors in asset pricing: Mind your sorts,1,22,"['P Verwijmeren', 'B Van Vliet', 'A Soebhag']"
+503,Informed options trading before corporate events,1,22,"['P Augustin', 'MG Subrahmanyam']"
+565,"Labor income, relative wealth concerns, and the cross section of stock returns",1,22,"['JP Gómez', 'F Zapatero', 'R Priestley']"
+727,Principles of corporate finance,1,22032,['F Allen']
+535,International asset allocation with regime shifts,2,2209,"['G Bekaert', 'A Ang']"
+569,Labor-force heterogeneity and asset prices: The importance of skilled labor,2,225,"['X Lin', 'F Belo', 'X Zhao', 'J Li']"
+453,"How distance, language, and culture influence stockholdings and trades",1,2254,['M Grinblatt']
+402,Firm financing over the business cycle,1,227,"['J Begenau', 'J Salomao']"
+834,Why is there a home bias? An analysis of foreign portfolio equity ownership in Japan,1,2279,['JK Kang']
+354,Excess cash and stock returns,1,228,['M Simutin']
+816,What explains the dynamics of 100 anomalies?,2,228,[]
+380,"Financial constraints, asset tangibility, and corporate investment",1,2300,"['M Campello', 'H Almeida']"
+752,Real asset illiquidity and the cost of capital,1,231,"['GM Phillips', 'H Ortiz-Molina']"
+715,Predicting takeover targets: A methodological and empirical analysis,1,2312,['KG Palepu']
+58,An empirical investigation of the arbitrage pricing theory,2,2317,[]
+36,A sustainable capital asset pricing model (S-CAPM): Evidence from environmental integration and sin stock exclusion,1,232,['OD Zerbib']
+123,"Bubbles, crises, and heterogeneous beliefs",1,232,['W Xiong']
+793,Unprofitable affiliates and income shifting behavior,1,233,"['L De Simone', 'KJ Klassen']"
+541,International transmission of stock market movements,1,2330,[]
+617,Media coverage and the cross‐section of stock returns,1,2330,"['L Fang', 'J Peress']"
+7,A closer look at the short-term return reversal,1,234,"['Z Da', 'E Schaumburg']"
+134,"COVID-19, government policy responses, and stock market liquidity around the world: A note",1,234,"['R Kizys', 'A Zaremba', 'DY Aharon', 'E Demir']"
+508,"Innovation, future earnings, and market efficiency",2,234,['F Gu']
+658,Oil and the stock markets,2,2344,['CM Jones']
+537,International portfolio choice and corporation finance: A synthesis,8,2355,['B Dumas']
+662,On persistence in mutual fund performance,1,23662,[]
+632,Monetary environments and international stock returns,2,238,"['RR Johnson', 'CM Conover', 'GR Jensen']"
+721,Price momentum and trading volume,2,2381,"['CMC Lee', 'B Swaminathan']"
+710,Predictable risk and returns in emerging markets,2,2384,['CR Harvey']
+400,Firm characteristics and stock returns: The role of investment-specific shocks,1,239,"['L Kogan', 'D Papanikolaou']"
+207,Corporate tax avoidance and stock price crash risk: Firm-level analysis,1,2390,"['Y Li', 'L Zhang']"
+310,ESG rating disagreement and stock returns: Evidence from China,1,24,[]
+804,Variance-of-variance risk premium,1,24,['A Kaeck']
+60,An integrated vector error correction and directed acyclic graph method for investigating contemporaneous causalities,1,24,[]
+218,Credit ratings and credit risk: Is one measure enough?,1,240,"['M Wilson', 'J Hilscher']"
+678,Options trading activity and firm valuation,1,243,"['E Schwartz', 'A Subrahmanyam']"
+837,"Yes, the APT is testable",1,244,['PH Dybvig']
+4,A better three-factor model that explains more anomalies,1,244,['L Zhang']
+502,Information uncertainty and stock returns,1,2449,['XF Zhang']
+511,"Innovative originality, profitability, and stock returns",1,245,"['PH Hsu', 'D Li', 'D Hirshleifer']"
+713,Predicting material accounting misstatements,3,2490,"['CR Larson', 'W Ge', 'PM Dechow']"
+203,"Corporate social responsibility performance and the cost of capital in BRICS countries. The problem of selectivity using environmental, social and governance scores",1,25,['BS Sergi']
+234,"Derivative financial instruments, tax aggressiveness and firm market value",1,25,[]
+399,Finding anomalies in China,2,25,"['K Hou', 'F Qiao']"
+120,Brand capital and firm value,1,251,"['MA Vitorino', 'F Belo', 'X Lin']"
+767,Rethinking financial contagion: Information transmission mechanism during the COVID-19 pandemic,1,252,"['J Brzeszczyński', 'JW Goodell', 'L Yarovaya']"
+686,Parameter learning in general equilibrium: The asset pricing implications,1,252,"['M Johannes', 'P Collin-Dufresne']"
+547,Investor attention and stock market activity: Evidence from France,1,255,"['A Aouadi', 'M Arouri', 'F Teulon']"
+463,How pervasive is corporate fraud?,1,255,"['L Zingales', 'A Morse', 'IJ Dyck']"
+717,Presidential address: Discount rates,9,2559,['JH Cochrane']
+661,On neural differential equations,1,256,['P Kidger']
+347,Evaluating cross-sectional forecasting models for implied cost of capital,1,256,"['P Mohanram', 'KK Li']"
+250,Disentangling equity return regularities: New insights and investment opportunities,1,256,['KN Levy']
+175,Constraints on short-selling and asset price adjustment to private information,2,2563,['DW Diamond']
+321,"Earnings surprises, growth expectations, and stock returns or dont let an earnings torpedo sink your portfolio",1,2596,"['RG Sloan', 'DJ Skinner']"
+506,Initial public offerings: A synthesis of the literature and directions for future research,1,260,"['E Volkova', 'M Lowry', 'R Michaely']"
+240,Differences of opinion and the cross section of stock returns,4,2623,"['KB Diether', 'CJ Malloy', 'A Scherbina']"
+55,An analysis of the literature on systemic financial risk: A survey,2,263,['H Kimura']
+298,Doing your literature review: Traditional and systematic techniques,1,2635,[]
+248,Disclosure quality and management trading incentives,1,264,['JL Rogers']
+642,"Mutual fund performance: An empirical decomposition into stock‐picking talent, style, transactions costs, and expenses",3,2644,['R Wermers']
+9,A comparison of new factor models,3,265,"['L Zhang', 'K Hou', 'C Xue']"
+774,Risk management in banking,1,2652,[]
+795,Using artificial neural networks to pick stocks,1,266,['L Kryzanowski']
+331,Emerging equity market volatility,1,2672,"['CR Harvey', 'G Bekaert']"
+251,Dissecting anomalies,2,2680,['KR French']
+283,Does gender diversity on corporate boards reduce information asymmetry in equity markets?,1,269,"['ME Lucas-Pérez', 'D Abad']"
+227,Debt covenants and cross-sectional equity returns,1,27,"['J Helwege', 'Y Wang', 'JZ Huang']"
+243,Disagreement and asset prices,1,270,"['BI Carlin', 'FA Longstaff']"
+338,"Employee satisfaction, labor market flexibility, and stock returns around the world",1,272,"['A Edmans', 'C Zhang', 'D Pu']"
+320,Earnings quality measures and excess returns,1,273,['A Wagenhofer']
+827,When does the peer information environment matter?,1,275,"['BP Yost', 'N Shroff', 'RS Verdi']"
+285,Does idiosyncratic volatility proxy for risk exposure?,1,275,"['Z Chen', 'R Petkova']"
+241,Digesting anomalies: An investment approach,42,2757,"['L Zhang', 'K Hou', 'C Xue']"
+223,"Customer satisfaction, analyst stock recommendations, and firm value",1,276,['X Luo']
+838,Your money and your brain: how the new science of neuroeconomics can help make you rich,1,276,[]
+373,FinBERT: A large language model for extracting information from financial text,1,276,"['Y Yang', 'AH Huang']"
+409,Foreign speculators and emerging equity markets,1,2761,"['CR Harvey', 'G Bekaert']"
+233,Default risk in equity returns,3,2767,['Y Xing']
+426,Global portfolio optimization,1,2775,['R Litterman']
+681,Organizations and societal economic inequality: A review and way forward,1,279,"['H Bapuji', 'G Ertug']"
+646,"Natural language processing in accounting, auditing and finance: A synthesis of the literature with a roadmap for future research",1,279,['IE Fisher']
+110,Betting against beta,1,2795,"['A Frazzini', 'LH Pedersen']"
+626,Modelling asymmetric exchange rate dependence,1,2797,['AJ Patton']
+197,Corporate political connections: A multidisciplinary review,3,28,"['N Jia', 'Y Wei', 'JP Bonardi']"
+689,Peer versus pure benchmarks in the compensation of mutual fund managers,1,28,"['JP Gómez', 'Y Tang', 'L Ma', 'R Evans']"
+773,Risk aversion and wealth: Evidence from person-to-person lending portfolios,1,282,"['V Rappoport', 'E Ravina']"
+823,What ties return volatilities to price valuations and fundamentals?,1,282,"['P Veronesi', 'A David']"
+443,"Heterogeneous beliefs, speculation, and the equity premium",1,285,['A David']
+295,Does the stock market fully value intangibles? Employee satisfaction and equity prices,1,2856,['A Edmans']
+322,Econometric measures of connectedness and systemic risk in the finance and insurance sectors,3,2879,"['M Getmansky', 'L Pelizzon', 'M Billio']"
+221,Cultural biases in economic exchange?,1,2882,"['L Zingales', 'P Sapienza', 'L Guiso']"
+87,Asset pricing with partial-moments,1,29,[]
+89,Asymmetric volatility risk: evidence from option markets,1,29,['G Vilkov']
+112,Big data as a governance mechanism,2,292,['C Zhu']
+639,Multifactor models and their consistency with the ICAPM,1,292,"['P Maio', 'P Santa-Clara']"
+758,Recursive macroeconomic theory,1,2936,['L Ljungqvist']
+199,Corporate social responsibility and firm performance in the hotel industry. The mediating role of green human resource management and environmental outcomes,1,294,['E Claver-Cortés']
+216,Credit default swaps: A survey,1,296,"['P Augustin', 'MG Subrahmanyam']"
+468,Identifying expectation errors in value/glamour strategies: A fundamental analysis approach,1,297,"['EC So', 'JD Piotroski']"
+40,A tug of war: Overnight versus intraday expected returns,1,297,"['D Lou', 'C Polk']"
+592,Machine learning techniques and data for stock market forecasting: A literature review,1,299,"['P Luukka', 'MM Kumbure', 'C Lohrmann']"
+187,"Corporate financial distress, restructuring, and bankruptcy: analyze leveraged finance, distressed debt, and bankruptcy",1,299,"['W Wang', 'E Hotchkiss']"
+444,Heterogenous peer effects: How community connectivity affects car purchases,1,3,"['Y Zenou', 'F Zapatero', 'J Shemesh']"
+455,How do institutions trade around corporate news,1,3,"['AG Huang', 'H Tan', 'R Wermers']"
+343,Essays on institutional investment and socially responsible investing,1,3,['L Schopohl']
+215,"Crash risk exposure, diversification and cost of equity capital: evidence from a natural experiment in China",1,3,[]
+84,Asset pricing tests for pandemic risk,2,3,"['D Park', 'YJ Kang', 'YH Eom']"
+25,A novel approach to estimating the debt capacity of European SMEs,1,3,"['M Režňáková', 'M Karas']"
+209,Correlation analysis of stocks and PMI index based on logistic regression model,1,3,[]
+757,Realized skewness at high frequency and the link to a conditional market premium,1,3,['Z Liu']
+59,An empirical study to detect agency problems in listed corporations: an emerging market study,1,30,['HH Flayyih']
+481,Improved and optimized recurrent neural network based on PSO and its application in stock price prediction,1,30,[]
+69,Apprenticeship training effects on entrepreneurship development in developing economies,2,30,"['CA Ezenwakwelu', 'NA Egbosionu']"
+751,Readability of accounting disclosures: a comprehensive review and research agenda,1,30,"['AM Gosselin', 'J Le Maux']"
+277,Does FinTech reduce corporate excess leverage? Evidence from China,1,30,['X Lai']
+683,Overconfidence and speculative bubbles,1,3003,"['W Xiong', 'JA Scheinkman']"
+482,Improving portfolio selection using option-implied volatility and skewness,1,301,"['R Uppal', 'V DeMiguel']"
+313,Earnings announcements and systematic risk,2,302,"['M Wilson', 'P Savor']"
+154,Class-imbalanced dynamic financial distress prediction based on Adaboost-SVM ensemble combined with SMOTE and time weighting,1,302,"['J Sun', 'H Fujita', 'H Li']"
+287,Does q-theory with investment frictions explain anomalies in the cross section of returns?,1,303,"['L Zhang', 'D Li']"
+708,Post loss/profit announcement drift,1,306,"['K Balakrishnan', 'E Bartov', 'L Faurel']"
+711,Predicting excess stock returns out of sample: Can anything beat the historical average?,1,3075,['JY Campbell']
+257,Distressed firm and bankruptcy prediction in an international context: A review and empirical analysis of Altmans Z-score model,2,308,['M Iwanicz-Drozdowska']
+195,Corporate liquidity management: A conceptual framework and survey,1,308,"['I Cunha', 'M Campello', 'H Almeida']"
+422,Generalized reduced rank tests using the singular value decomposition,1,3089,['F Kleibergen']
+111,Beyond greed and fear: Understanding behavioral finance and the psychology of investing,2,3092,['H Shefrin']
+290,Does supply chain finance (SCF) alleviate funding constraints of SMEs? Evidence from China,1,31,"['JH Shen', 'CC Lee', 'Q Xie']"
+346,Estimation of large dimensional conditional factor models in finance,1,31,"['P Gagliardini', 'O Scaillet']"
+286,Does option trading convey stock price information?,1,310,['J Hu']
+566,Labor mobility: Implications for asset pricing,1,312,[]
+484,In search of distress risk,6,3120,"['JY Campbell', 'J Hilscher']"
+125,CAPM for estimating the cost of equity capital: Interpreting the empirical evidence,1,313,"['R Jagannathan', 'Z Da', 'RJ Guo']"
+698,Political connections and corporate investments: Evidence from the recent anti-corruption campaign in China,1,313,"['GG Tian', 'X Pan']"
+723,Prices of state-contingent claims implicit in option prices,1,3131,['DT Breeden']
+39,A test of the efficiency of a given portfolio,1,3131,['J Shanken']
+672,Optimal consumption and investment with capital gains taxes,1,314,"['CS Spatt', 'RM Dammon']"
+555,"Investor sentiment, beta, and the cost of equity capital",1,314,"['JA Doukas', 'C Antoniou']"
+208,Corporate tax avoidance: A literature review and research agenda,1,315,[]
+574,"Leverage change, debt overhang, and stock prices",2,316,"['Z Zhang', 'J Cai']"
+659,"Oil price shocks, economic policy uncertainty and industry stock returns in China: Asymmetric effects with quantile regression",1,317,[]
+631,Momentum strategies,1,3173,"['LKC Chan', 'N Jegadeesh']"
+210,Correlations in price changes and volatility across international stock markets,1,3185,"['Y Hamao', 'RW Masulis']"
+293,Does the location of stock exchange matter? A within-country analysis,1,32,"['W Zhang', 'N Zhu']"
+412,Fraud triangle and earnings management based on the modified M-score: A study on manufacturing company in Indonesia,1,32,"['NPDRH Narsa', 'OA Wardhaningrum']"
+590,Machine learning methods for systemic risk analysis in financial sectors.,1,321,"['G Kou', 'X Chao', 'E Herrera Viedma', 'FE Alsaadi', 'Y Peng']"
+622,Misbehaving: The making of behavioral economics,6,3213,['RH Thaler']
+74,Are accruals mispriced? Evidence from tests of an intertemporal capital asset pricing model,1,322,[]
+105,"Behavioral finance: Psychology, decision-making, and markets",1,323,['L Ackert']
+306,ESG and responsible institutional investing around the world: A critical review,1,323,['P Matos']
+411,Foundations of complexity economics,1,324,['WB Arthur']
+22,A new anomaly: The cross-sectional profitability of technical analysis,1,325,"['G Zhou', 'Y Han']"
+440,Hedge funds: quantitative insights,1,325,[]
+709,Post-earnings-announcement drift: delayed price response or risk premium?,2,3252,['JK Thomas']
+410,Forward and spot exchange rates,1,3255,[]
+688,Payout policy,5,326,"['J Farre-Mensa', 'R Michaely', 'F Allen']"
+608,"Masculinity, testosterone, and financial misreporting",1,326,"['LVAN LENT', 'Y Jia', 'Y Zeng']"
+282,Does financial liberalization spur growth?,1,3269,"['CR Harvey', 'G Bekaert', 'C Lundblad']"
+633,Monetary policy and the stock market: theory and empirical evidence,2,328,[]
+67,Another puzzle: The growth in actively managed mutual funds,2,3296,['MJ Gruber']
+824,Whats good for you is good for me: the effect of CEO inside debt on the cost of equity,1,33,"['H Zhang', 'CH Shen']"
+802,Variable selection and corporate bankruptcy forecasts,1,330,"['H Guo', 'Y Yu']"
+155,Climate change concerns and the performance of green vs. brown stocks,7,330,"['K Boudt', 'D Ardia', 'K Bluteau']"
+316,Earnings manipulation and expected returns,2,332,"['DC Nichols', 'MD Beneish', 'CMC Lee']"
+99,Bankruptcy prediction for SMEs using transactional data and two-stage multiobjective feature selection,1,334,"['Y Chen', 'G Kou', 'Y Peng']"
+438,Have we solved the idiosyncratic volatility puzzle?,1,335,"['RK Loh', 'K Hou']"
+766,Retail investor attention and stock price crash risk: evidence from China,1,336,"['L Xu', 'F Wen', 'G Kou']"
+787,Uncovering hedge fund skill from the portfolio holdings they hide,1,336,"['W Jiang', 'Y Tang', 'V Agarwal', 'B Yang']"
+279,Does beta move with news? Firm-specific information flows and learning about profitability,1,338,['AJ Patton']
+292,Does the implementation of green credit policy improve the ESG performance of enterprises? Evidence from a quasi-natural experiment in China,1,34,[]
+318,Earnings quality and short selling: Evidence from real earnings management in the United States,1,34,['KE Park']
+376,Financial attention,1,341,"['N Sicherman', 'G Loewenstein', 'DJ Seppi']"
+817,What explains the stock markets reaction to Federal Reserve policy?,1,3414,['KN Kuttner']
+139,Capital asset prices: A theory of market equilibrium under conditions of risk,2,34308,['WF Sharpe']
+367,"Fear sentiment, uncertainty, and bitcoin price dynamics: The case of COVID-19",1,344,"['N Zhao', 'C Chen']"
+289,Does risk management add value? A survey of the evidence,1,344,['BJ Simkins']
+437,Have financial statements lost their relevance?,2,3441,[]
+352,Evolution in value relevance of accounting information,1,345,"['CG McClure', 'ME Barth']"
+129,CEO overconfidence and financial crisis: Evidence from bank lending and leverage,1,348,"['JF Yen', 'CY Lin']"
+627,Modelling receivables and deferred revenues to detect revenue management,1,35,['J Zha Giedt']
+169,Conditional skewness in asset pricing tests,4,3501,"['A Siddique', 'CR Harvey']"
+351,Evidence on the trade-off between real activities manipulation and accrual-based earnings management,2,3507,['AY Zang']
+414,From efficient markets theory to behavioral finance,2,3507,[]
+694,Persuasive evidence of market inefficiency,2,3513,[]
+543,Investment analysis and portfolio management,1,3554,[]
+567,Labor share decline and intellectual property products capital,1,356,"['Y Zheng', 'R Santaeulàlia‐Llopis', 'D Koh']"
+782,Rumors,1,359,[]
+46,"Accounting information, disclosure, and the cost of capital",3,3592,['C Leuz']
+770,Review of new trends in the literature on factor models and mutual fund performance,1,36,"['IB Mateus', 'C Mateus', 'N Todorovic']"
+95,"Bad news travels slowly: Size, analyst coverage, and the profitability of momentum strategies",1,3607,"['H Hong', 'JC Stein']"
+483,In search of attention,3,3626,"['J Engelberg', 'P Gao', 'Z Da']"
+750,Readability of 10‐K reports and stock price crash risk,1,363,"['K Wang', 'L Zhang', 'C Kim']"
+269,Do mutual funds perform when it matters most to investors? US mutual fund performance and risk in recessions and expansions,1,363,['R Kosowski']
+815,What drives stock price movements?,1,364,['Z Da']
+499,Information disclosure in financial markets,1,365,"['I Goldstein', 'L Yang']"
+143,Carry trade and momentum in currency markets,2,366,"['M Eichenbaum', 'C Burnside']"
+88,Asymmetric dependence between stock market returns and news during COVID-19 financial turmoil,1,367,['CO Cepoi']
+164,Common risk factors in the returns on stocks and bonds,7,36708,['KR French']
+597,Managerial incentives and risk-taking,1,3686,"['JL Coles', 'L Naveen', 'ND Daniel']"
+692,Performances and risk of socially responsible investments across regions during crisis,1,37,"['F Pizzutilo', 'HH Lean']"
+765,Resurrecting the value premium,1,37,"['MX Hanauer', 'D Blitz']"
+424,Geopolitical risk and stock liquidity,1,37,['A Meles']
+307,"ESG did not immunize stocks during the COVID‐19 crisis, but investments in intangible assets did",1,372,"['J Hendrikse', 'E Demers']"
+520,Institutional investors and stock return anomalies,1,373,"['RM Edelen', 'GB Kadlec', 'OS Ince']"
+776,Risk measurement when shares are subject to infrequent trading,2,3739,['E Dimson']
+476,Impact of ESG performance on firm value and profitability,1,375,"['G Gülay', 'M Aydoğmuş']"
+799,Value versus growth: The international evidence,2,3768,['KR French']
+421,Generalized instrumental variables estimation of nonlinear rational expectations models,1,3769,['LP Hansen']
+398,Financially constrained stock returns,2,379,"['D Livdan', 'L Zhang']"
+392,Financial machine learning,7,38,"['D Xiu', 'B Kelly']"
+178,Contemporaneous causality among residential housing prices of ten major Chinese cities,1,38,[]
+771,"Rich pickings? Risk, return, and skill in household wealth",1,380,"['P Sodini', 'LE Calvet', 'L Bach']"
+54,An Augmented q-Factor Model with Expected Growth,19,382,"['H Mo', 'L Zhang', 'K Hou', 'C Xue']"
+550,Investor psychology and asset pricing,11,3828,['D Hirshleifer']
+50,Acquisitions driven by stock overvaluation: are they good deals?,1,383,"['F Fu', 'MS Officer', 'L Lin']"
+24,A nonlinear general equilibrium model of the term structure of interest rates,1,385,['FA Longstaff']
+44,Accounting conservatism: A review of the literature,1,385,"['G Taylor', 'GW Ruch']"
+738,Protection of trade secrets and capital structure decisions,1,385,"['M Serfling', 'H Ortiz-Molina']"
+328,Efficient capital markets,4,38502,[]
+714,Predicting stock returns in the presence of COVID-19 pandemic: The role of health news,1,386,['AA Salisu']
+458,How does financial reporting quality relate to investment efficiency?,1,3867,"['G Hilary', 'GC Biddle', 'RS Verdi']"
+839,ZETATM analysis A new model to identify bankruptcy risk of corporations,1,3888,[]
+624,Missing data in asset pricing panels,1,39,"['J Freyberger', 'A Neuhierl']"
+382,Financial decisions and markets: a course in asset pricing,6,390,['JY Campbell']
+584,Long-run productivity risk: A new hope for production-based asset pricing?,1,392,['MM Croce']
+406,Flights to safety,1,393,"['K Inghelbrecht', 'L Baele', 'G Bekaert']"
+217,Credit expansion and neglected crash risk,1,395,"['W Xiong', 'M Baron']"
+419,Futures manipulation with “cash settlement”,1,396,"['P Kumar', 'DJ Seppi']"
+220,Cross-stock momentum and factor momentum,1,4,['J Yu']
+104,Behavioral finance: Its history and its future,1,40,[]
+303,Dynamic asset pricing effects and incidence of realization-based capital gains taxes,1,40,[]
+665,On the determinants and effects of corporate tax transparency: Review of an emerging literature,1,40,['C Spengel']
+188,"Corporate financial distress: the impact of profitability, liquidity, asset productivity, activity and solvency",1,40,['K Amoa-Gyarteng']
+445,Hexagon Fraud in Fraudulent Financial Statements: the Moderating Role of Audit Committee,1,40,"['DS Nugroho', 'V Diyanty']"
+272,Do prices reveal the presence of informed trading?,2,401,"['P Collin‐Dufresne', 'V Fos']"
+395,Financial reporting fraud and other forms of misconduct: a multidisciplinary review of the literature,1,403,"['Z Bozanic', 'D Amiram']"
+451,Household finance,1,4031,['JY Campbell']
+835,Why mutual funds “underperform”,1,405,['V Glode']
+452,Housing and macroeconomics,1,406,"['M Piazzesi', 'M Schneider']"
+291,Does the F-score improve the performance of different value investment strategies in Europe?,1,41,['J Äijö']
+61,An intertemporal asset pricing model with stochastic consumption and investment opportunities,1,4111,['DT Breeden']
+213,Costs of equity and earnings attributes,1,4117,['PM Olsson']
+726,Pricing model performance and the two‐pass cross‐sectional regression methodology,1,412,"['J Shanken', 'R Kan']"
+198,Corporate social responsibility and access to finance,2,4166,"['I Ioannou', 'G Serafeim']"
+828,When selling becomes viral Disruptions in debt markets in the COVID-19 crisis and the Feds response,2,417,"['V Haddad', 'A Moreira t Muir']"
+634,Monetary policy and the term structure of nominal interest rates: evidence and theory,1,418,[]
+700,Political polarization in financial news,1,42,"['R Israelsen', 'E Goldman', 'N Gupta']"
+460,How does the market variance risk premium vary over time? Evidence from S&P 500 variance swap investment returns,1,42,"['E Konstantinidi', 'G Skiadopoulos']"
+786,The governance effect of the medias news dissemination role: Evidence from insider trading,1,427,"['JT Parwada', 'L Dai']"
+576,Linguistic complexity in firm disclosures: Obfuscation or information?,1,427,"['BJ Bushee', 'ID Gow', 'DJ Taylor']"
+645,Natural language based financial forecasting: a survey,1,427,"['FZ Xing', 'E Cambria']"
+20,A measure of competition based on 10‐K filings,1,428,"['R Lundholm', 'M Minnis']"
+172,Consequences for future return with earnings management through real operating activities,1,43,['AL Martinez']
+235,Detecting long-run abnormal stock returns: The empirical power and specification of test statistics,2,4319,"['JD Lyon', 'BM Barber']"
+212,Costly information processing: Evidence from earnings announcements,2,433,['J Engelberg']
+575,Levered returns,1,433,"['L Schmid', 'JF Gomes']"
+10,A comprehensive look at the empirical performance of equity premium prediction,4,4352,"['I Welch', 'A Goyal']"
+262,Do expected shifts in inflation affect estimates of the long‐run Fisher relation?,1,437,"['KK Lewis', 'MDD Evans']"
+572,Learning in financial markets,1,438,"['P Veronesi', 'L Pastor']"
+31,A selective critical review of financial accounting research,1,44,[]
+157,Climate policy uncertainty and the stock return predictability of the oil industry,1,44,"['Y Zhang', 'M He']"
+165,Common stock returns surrounding earnings forecast revisions: More puzzling evidence,1,440,[]
+386,Financial distress and the cross‐section of equity returns,3,441,"['L Garlappi', 'H Yan']"
+141,Capital structure decisions: which factors are reliably important?,1,4424,"['VK Goyal', 'MZ Frank']"
+276,Do unions affect innovation?,1,444,"['I Kim', 'D Bradley', 'X Tian']"
+232,Deep learning-based feature engineering for stock price movement prediction,1,446,[]
+593,Macro-finance,1,448,['JH Cochrane']
+697,"Political climate, optimism, and investment decisions",1,45,['Y Bonaparte']
+728,Private or public equity? The evolving entrepreneurial finance landscape,1,45,"['J Farre-Mensa', 'M Ewens']"
+404,"Firm-level productivity, risk, and return",3,450,"['Ş Tüzel', 'A İmrohoroğlu']"
+396,Financial reporting opacity and expected crash risk: Evidence from implied volatility smirks,1,451,['L Zhang']
+397,Financial statement comparability and expected crash risk,1,452,"['Y Yu', 'L Li', 'LY Lu']"
+127,CEO age and stock price crash risk,1,453,"['PC Andreou', 'AP Petrou', 'C Louca']"
+146,"Cash holdings, risk, and expected returns",2,454,['B Palazzo']
+47,"Accounting narratives and the narrative turn in accounting research: Issues, theory, methodology, methods and a research framework",1,455,[]
+696,"Policy uncertainty, irreversibility, and cross-border flows of capital",1,455,['B Julio']
+369,Feedback and contagion through distressed competition,1,46,"['WW Dou', 'H Guo', 'H Chen', 'Y Ji']"
+368,Federal reserve monetary policy and industry stock returns,2,46,"['RR Johnson', 'GR Jensen']"
+494,Inflation and asset returns in a monetary economy,1,466,[]
+317,"Earnings manipulation, pension assumptions, and managerial investment decisions",1,467,"['J Rauh', 'D Bergstresser', 'M Desai']"
+775,Risk management: Coordinating corporate investment and financing policies,1,4675,"['KA Froot', 'JC Stein', 'DS Scharfstein']"
+813,Voluntary nonfinancial disclosure and the cost of equity capital: The initiation of corporate social responsibility reporting,2,4677,"['A Tsang', 'OZ Li']"
+148,Causes and consequences of goodwill impairment losses,1,469,"['PK Shroff', 'Z Li', 'R Venkataraman', 'IX Zhang']"
+361,Exploring Macroeconomic Sensitivities: How* Investments Respond to Different Economic Environments,1,47,[]
+479,Impact of landfill garbage on insect ecology and human health,1,47,"['K He', 'M Qasim', 'A Noman']"
+780,Risks for the long run: A potential resolution of asset pricing puzzles,1,4710,"['R Bansal', 'A Yaron']"
+86,Asset pricing with liquidity risk,6,4711,"['VV Acharya', 'LH Pedersen']"
+132,"COVID-19 lockdowns, stimulus packages, travel bans, and stock returns",1,472,"['DHB Phan', 'G Liu', 'PK Narayan']"
+615,Measuring qualitative information in capital markets research: Comparison of alternative methodologies to measure disclosure tone,1,474,"['E Henry', 'AJ Leone']"
+620,Methodological issues related to the estimation of financial distress prediction models,2,4767,[]
+427,Global pricing of carbon‐transition risk,1,477,"['M Kacperczyk', 'P Bolton']"
+809,"Volatility, the macroeconomy, and asset prices",2,477,"['D Kiku', 'R Bansal', 'I Shaliastovich']"
+49,"Accruals, cash flows, and operating profitability in the cross section of stock returns",1,479,"['R Ball', 'V Nikolaev', 'JT Linnainmaa', 'J Gerakos']"
+507,Innovation decisions through firm life cycle: A new evidence from emerging markets,1,48,"['F Shahzad', 'M Ahmad', 'Z Fareed']"
+429,"Good jumps, bad jumps, and conditional equity premium",1,48,"['H Guo', 'H Zhou']"
+702,Political uncertainty and IPO activity: Evidence from US gubernatorial elections,2,480,"['A Durnev', 'Y Qian', 'G Çolak']"
+390,Financial literacy and stock market participation,1,4800,"['R Alessie', 'A Lusardi', 'M Van Rooij']"
+163,Common risk factors in cryptocurrency,5,483,"['Y Liu', 'A Tsyvinski', 'X Wu']"
+669,Operating leverage,1,484,['R Novy-Marx']
+431,"Government spending, political cycles, and the cross section of stock returns",1,484,"['J Li', 'F Belo', 'VD Gala']"
+190,Corporate governance and capital structure dynamics,1,486,"['E Morellec', 'N Schürhoff', 'B Nikolov']"
+435,Has goodwill accounting gone bad?,1,486,"['KK Li', 'RG Sloan']"
+607,"Market timing, investment, and risk management",1,487,"['H Chen', 'P Bolton', 'N Wang']"
+772,"Rising intangible capital, shrinking debt capacity, and the US corporate savings glut",1,487,"['D Kadyrzhanova', 'A Falato']"
+434,"Hard-to-value stocks, behavioral biases, and informed trading",1,487,['A Kumar']
+559,Is size dead? A review of the size effect in equity returns,5,488,['MA Van Dijk']
+718,Presidential address: The scientific outlook in financial economics,1,488,['CR Harvey']
+754,Real earnings management and stock returns: moderating role of cross-sectional effects,1,49,"['A Ali', 'M Bansal']"
+580,Local business cycles and local liquidity,1,49,"['G Bernile', 'G Korniotis', 'A Kumar']"
+447,High policy uncertainty and low implied market volatility: An academic puzzle?,1,49,"['J Białkowski', 'HD Dang']"
+174,"Consolidation, fragmentation, and the disclosure of trading information",1,493,[]
+562,Is there a cost to being socially responsible in investing?,1,493,[]
+553,Investor sentiment and option prices,2,493,['B Han']
+242,"Direct and mediated associations among earnings quality, information asymmetry, and the cost of equity",1,493,"['N Bhattacharya', 'F Ecker', 'PM Olsson']"
+513,Inside the ESG ratings:(Dis) agreement and performance,2,494,"['M Billio', 'C Latino']"
+52,"Aggregate and firm-level stock returns during pandemics, in real time",3,496,"['AN Greenland', 'A Chari', 'PK Schott']"
+649,New evidence and perspectives on mergers,1,4963,"['M Mitchell', 'E Stafford']"
+173,Conservatism in accounting part I: Explanations and implications,1,4971,['RL Watts']
+526,Integrating Factors in Market Indexes and Active Portfolios,1,5,['N Kumar']
+171,Conglomerate discount and financial constraints: A novel view to an old puzzle,1,5,"['L Zhang', 'A Bodnaruk', 'M Massa']"
+759,Red versus Blue: Do Political Dimensions Influence the Investment Preferences of State Pension Funds?,1,5,"['AGF Hoepner', 'L Schopohl']"
+284,Does geographic location matter to stock return predictability?,1,5,['I Chkir']
+820,What is the Expected Return on the Market?,1,500,['I Martin']
+96,Bank risk and monetary policy,1,502,"['Y Altunbas', 'L Gambacorta']"
+273,Do socially (ir) responsible investments pay? New evidence from international ESG data,1,504,[]
+492,Inefficient markets: An introduction to behavioural finance,2,5046,['A Shleifer']
+231,Deep learning in asset pricing,9,509,"['M Pelger', 'J Zhu', 'L Chen']"
+705,Portfolio choice over the life cycle: A survey,1,51,['F Gomes']
+425,"Glamour acquirers, method of payment and post‐acquisition performance: the UK evidence",1,510,[]
 730,Product market competition in a world of cross-ownership: Evidence from institutional blockholdings,1,512,"['J He', 'J Huang']"
 534,"International asset allocation under regime switching, skew, and kurtosis preferences",1,512,"['M Guidolin', 'A Timmermann']"
 668,On the timing and pricing of dividends,1,512,"['R Koijen', 'J Binsbergen']"
-425,"Glamour acquirers, method of payment and post‐acquisition performance: the UK evidence",1,510,[]
-705,Portfolio choice over the life cycle: A survey,1,51,['F Gomes']
-231,Deep learning in asset pricing,9,509,"['M Pelger', 'J Zhu', 'L Chen']"
-492,Inefficient markets: An introduction to behavioural finance,2,5046,['A Shleifer']
-273,Do socially (ir) responsible investments pay? New evidence from international ESG data,1,504,[]
-96,Bank risk and monetary policy,1,502,"['Y Altunbas', 'L Gambacorta']"
-820,What is the Expected Return on the Market?,1,500,['I Martin']
-284,Does geographic location matter to stock return predictability?,1,5,['I Chkir']
-171,Conglomerate discount and financial constraints: A novel view to an old puzzle,1,5,"['L Zhang', 'A Bodnaruk', 'M Massa']"
-526,Integrating Factors in Market Indexes and Active Portfolios,1,5,['N Kumar']
-759,Red versus Blue: Do Political Dimensions Influence the Investment Preferences of State Pension Funds?,1,5,"['AGF Hoepner', 'L Schopohl']"
-173,Conservatism in accounting part I: Explanations and implications,1,4971,['RL Watts']
-649,New evidence and perspectives on mergers,1,4963,"['M Mitchell', 'E Stafford']"
-52,"Aggregate and firm-level stock returns during pandemics, in real time",3,496,"['AN Greenland', 'A Chari', 'PK Schott']"
-513,Inside the ESG ratings:(Dis) agreement and performance,2,494,"['M Billio', 'C Latino']"
-242,"Direct and mediated associations among earnings quality, information asymmetry, and the cost of equity",1,493,"['N Bhattacharya', 'F Ecker', 'PM Olsson']"
-553,Investor sentiment and option prices,2,493,['B Han']
-174,"Consolidation, fragmentation, and the disclosure of trading information",1,493,[]
-562,Is there a cost to being socially responsible in investing?,1,493,[]
-580,Local business cycles and local liquidity,1,49,"['G Bernile', 'G Korniotis', 'A Kumar']"
-447,High policy uncertainty and low implied market volatility: An academic puzzle?,1,49,"['J Białkowski', 'HD Dang']"
-754,Real earnings management and stock returns: moderating role of cross-sectional effects,1,49,"['A Ali', 'M Bansal']"
-559,Is size dead? A review of the size effect in equity returns,5,488,['MA Van Dijk']
-718,Presidential address: The scientific outlook in financial economics,1,488,['CR Harvey']
-772,"Rising intangible capital, shrinking debt capacity, and the US corporate savings glut",1,487,"['D Kadyrzhanova', 'A Falato']"
-434,"Hard-to-value stocks, behavioral biases, and informed trading",1,487,['A Kumar']
-607,"Market timing, investment, and risk management",1,487,"['H Chen', 'P Bolton', 'N Wang']"
-435,Has goodwill accounting gone bad?,1,486,"['KK Li', 'RG Sloan']"
-190,Corporate governance and capital structure dynamics,1,486,"['E Morellec', 'N Schürhoff', 'B Nikolov']"
-431,"Government spending, political cycles, and the cross section of stock returns",1,484,"['J Li', 'F Belo', 'VD Gala']"
-669,Operating leverage,1,484,['R Novy-Marx']
-163,Common risk factors in cryptocurrency,5,483,"['Y Liu', 'A Tsyvinski', 'X Wu']"
-390,Financial literacy and stock market participation,1,4800,"['R Alessie', 'A Lusardi', 'M Van Rooij']"
-702,Political uncertainty and IPO activity: Evidence from US gubernatorial elections,2,480,"['A Durnev', 'Y Qian', 'G Çolak']"
-429,"Good jumps, bad jumps, and conditional equity premium",1,48,"['H Guo', 'H Zhou']"
-507,Innovation decisions through firm life cycle: A new evidence from emerging markets,1,48,"['F Shahzad', 'M Ahmad', 'Z Fareed']"
-49,"Accruals, cash flows, and operating profitability in the cross section of stock returns",1,479,"['R Ball', 'V Nikolaev', 'JT Linnainmaa', 'J Gerakos']"
-809,"Volatility, the macroeconomy, and asset prices",2,477,"['D Kiku', 'R Bansal', 'I Shaliastovich']"
-427,Global pricing of carbon‐transition risk,1,477,"['M Kacperczyk', 'P Bolton']"
-620,Methodological issues related to the estimation of financial distress prediction models,2,4767,[]
-615,Measuring qualitative information in capital markets research: Comparison of alternative methodologies to measure disclosure tone,1,474,"['E Henry', 'AJ Leone']"
-132,"COVID-19 lockdowns, stimulus packages, travel bans, and stock returns",1,472,"['DHB Phan', 'G Liu', 'PK Narayan']"
-86,Asset pricing with liquidity risk,6,4711,"['VV Acharya', 'LH Pedersen']"
-780,Risks for the long run: A potential resolution of asset pricing puzzles,1,4710,"['R Bansal', 'A Yaron']"
-361,Exploring Macroeconomic Sensitivities: How* Investments Respond to Different Economic Environments,1,47,[]
-479,Impact of landfill garbage on insect ecology and human health,1,47,"['K He', 'M Qasim', 'A Noman']"
-148,Causes and consequences of goodwill impairment losses,1,469,"['PK Shroff', 'Z Li', 'R Venkataraman', 'IX Zhang']"
-813,Voluntary nonfinancial disclosure and the cost of equity capital: The initiation of corporate social responsibility reporting,2,4677,"['A Tsang', 'OZ Li']"
-775,Risk management: Coordinating corporate investment and financing policies,1,4675,"['KA Froot', 'JC Stein', 'DS Scharfstein']"
-317,"Earnings manipulation, pension assumptions, and managerial investment decisions",1,467,"['J Rauh', 'D Bergstresser', 'M Desai']"
-494,Inflation and asset returns in a monetary economy,1,466,[]
-368,Federal reserve monetary policy and industry stock returns,2,46,"['RR Johnson', 'GR Jensen']"
-369,Feedback and contagion through distressed competition,1,46,"['WW Dou', 'H Guo', 'H Chen', 'Y Ji']"
-47,"Accounting narratives and the narrative turn in accounting research: Issues, theory, methodology, methods and a research framework",1,455,[]
-696,"Policy uncertainty, irreversibility, and cross-border flows of capital",1,455,['B Julio']
-146,"Cash holdings, risk, and expected returns",2,454,['B Palazzo']
-127,CEO age and stock price crash risk,1,453,"['PC Andreou', 'AP Petrou', 'C Louca']"
-397,Financial statement comparability and expected crash risk,1,452,"['Y Yu', 'L Li', 'LY Lu']"
-396,Financial reporting opacity and expected crash risk: Evidence from implied volatility smirks,1,451,['L Zhang']
-404,"Firm-level productivity, risk, and return",3,450,"['Ş Tüzel', 'A İmrohoroğlu']"
-728,Private or public equity? The evolving entrepreneurial finance landscape,1,45,"['J Farre-Mensa', 'M Ewens']"
-697,"Political climate, optimism, and investment decisions",1,45,['Y Bonaparte']
-593,Macro-finance,1,448,['JH Cochrane']
-232,Deep learning-based feature engineering for stock price movement prediction,1,446,[]
-276,Do unions affect innovation?,1,444,"['I Kim', 'D Bradley', 'X Tian']"
-141,Capital structure decisions: which factors are reliably important?,1,4424,"['VK Goyal', 'MZ Frank']"
-386,Financial distress and the cross‐section of equity returns,3,441,"['L Garlappi', 'H Yan']"
-165,Common stock returns surrounding earnings forecast revisions: More puzzling evidence,1,440,[]
-31,A selective critical review of financial accounting research,1,44,[]
-157,Climate policy uncertainty and the stock return predictability of the oil industry,1,44,"['Y Zhang', 'M He']"
-572,Learning in financial markets,1,438,"['P Veronesi', 'L Pastor']"
-262,Do expected shifts in inflation affect estimates of the long‐run Fisher relation?,1,437,"['KK Lewis', 'MDD Evans']"
-10,A comprehensive look at the empirical performance of equity premium prediction,4,4352,"['I Welch', 'A Goyal']"
-575,Levered returns,1,433,"['L Schmid', 'JF Gomes']"
-212,Costly information processing: Evidence from earnings announcements,2,433,['J Engelberg']
-235,Detecting long-run abnormal stock returns: The empirical power and specification of test statistics,2,4319,"['JD Lyon', 'BM Barber']"
-172,Consequences for future return with earnings management through real operating activities,1,43,['AL Martinez']
-20,A measure of competition based on 10‐K filings,1,428,"['R Lundholm', 'M Minnis']"
-576,Linguistic complexity in firm disclosures: Obfuscation or information?,1,427,"['BJ Bushee', 'ID Gow', 'DJ Taylor']"
-645,Natural language based financial forecasting: a survey,1,427,"['FZ Xing', 'E Cambria']"
-786,The governance effect of the medias news dissemination role: Evidence from insider trading,1,427,"['JT Parwada', 'L Dai']"
-460,How does the market variance risk premium vary over time? Evidence from S&P 500 variance swap investment returns,1,42,"['E Konstantinidi', 'G Skiadopoulos']"
-700,Political polarization in financial news,1,42,"['R Israelsen', 'E Goldman', 'N Gupta']"
-634,Monetary policy and the term structure of nominal interest rates: evidence and theory,1,418,[]
-828,When selling becomes viral Disruptions in debt markets in the COVID-19 crisis and the Feds response,2,417,"['V Haddad', 'A Moreira t Muir']"
-198,Corporate social responsibility and access to finance,2,4166,"['I Ioannou', 'G Serafeim']"
-726,Pricing model performance and the two‐pass cross‐sectional regression methodology,1,412,"['J Shanken', 'R Kan']"
-213,Costs of equity and earnings attributes,1,4117,['PM Olsson']
-61,An intertemporal asset pricing model with stochastic consumption and investment opportunities,1,4111,['DT Breeden']
-291,Does the F-score improve the performance of different value investment strategies in Europe?,1,41,['J Äijö']
-452,Housing and macroeconomics,1,406,"['M Piazzesi', 'M Schneider']"
-835,Why mutual funds “underperform”,1,405,['V Glode']
-451,Household finance,1,4031,['JY Campbell']
-395,Financial reporting fraud and other forms of misconduct: a multidisciplinary review of the literature,1,403,"['Z Bozanic', 'D Amiram']"
-272,Do prices reveal the presence of informed trading?,2,401,"['P Collin‐Dufresne', 'V Fos']"
-445,Hexagon Fraud in Fraudulent Financial Statements: the Moderating Role of Audit Committee,1,40,"['DS Nugroho', 'V Diyanty']"
-665,On the determinants and effects of corporate tax transparency: Review of an emerging literature,1,40,['C Spengel']
-188,"Corporate financial distress: the impact of profitability, liquidity, asset productivity, activity and solvency",1,40,['K Amoa-Gyarteng']
-303,Dynamic asset pricing effects and incidence of realization-based capital gains taxes,1,40,[]
-104,Behavioral finance: Its history and its future,1,40,[]
-220,Cross-stock momentum and factor momentum,1,4,['J Yu']
-419,Futures manipulation with “cash settlement”,1,396,"['P Kumar', 'DJ Seppi']"
-217,Credit expansion and neglected crash risk,1,395,"['W Xiong', 'M Baron']"
-406,Flights to safety,1,393,"['K Inghelbrecht', 'L Baele', 'G Bekaert']"
-584,Long-run productivity risk: A new hope for production-based asset pricing?,1,392,['MM Croce']
-382,Financial decisions and markets: a course in asset pricing,6,390,['JY Campbell']
-624,Missing data in asset pricing panels,1,39,"['J Freyberger', 'A Neuhierl']"
-839,ZETATM analysis A new model to identify bankruptcy risk of corporations,1,3888,[]
-458,How does financial reporting quality relate to investment efficiency?,1,3867,"['G Hilary', 'GC Biddle', 'RS Verdi']"
-714,Predicting stock returns in the presence of COVID-19 pandemic: The role of health news,1,386,['AA Salisu']
-328,Efficient capital markets,4,38502,[]
-738,Protection of trade secrets and capital structure decisions,1,385,"['M Serfling', 'H Ortiz-Molina']"
-44,Accounting conservatism: A review of the literature,1,385,"['G Taylor', 'GW Ruch']"
-24,A nonlinear general equilibrium model of the term structure of interest rates,1,385,['FA Longstaff']
-50,Acquisitions driven by stock overvaluation: are they good deals?,1,383,"['F Fu', 'MS Officer', 'L Lin']"
-550,Investor psychology and asset pricing,11,3828,['D Hirshleifer']
-54,An Augmented q-Factor Model with Expected Growth,19,382,"['H Mo', 'L Zhang', 'K Hou', 'C Xue']"
-771,"Rich pickings? Risk, return, and skill in household wealth",1,380,"['P Sodini', 'LE Calvet', 'L Bach']"
-178,Contemporaneous causality among residential housing prices of ten major Chinese cities,1,38,[]
-392,Financial machine learning,7,38,"['D Xiu', 'B Kelly']"
-398,Financially constrained stock returns,2,379,"['D Livdan', 'L Zhang']"
-421,Generalized instrumental variables estimation of nonlinear rational expectations models,1,3769,['LP Hansen']
-799,Value versus growth: The international evidence,2,3768,['KR French']
-476,Impact of ESG performance on firm value and profitability,1,375,"['G Gülay', 'M Aydoğmuş']"
-776,Risk measurement when shares are subject to infrequent trading,2,3739,['E Dimson']
-520,Institutional investors and stock return anomalies,1,373,"['RM Edelen', 'GB Kadlec', 'OS Ince']"
-307,"ESG did not immunize stocks during the COVID‐19 crisis, but investments in intangible assets did",1,372,"['J Hendrikse', 'E Demers']"
-424,Geopolitical risk and stock liquidity,1,37,['A Meles']
-765,Resurrecting the value premium,1,37,"['MX Hanauer', 'D Blitz']"
-692,Performances and risk of socially responsible investments across regions during crisis,1,37,"['F Pizzutilo', 'HH Lean']"
-597,Managerial incentives and risk-taking,1,3686,"['JL Coles', 'L Naveen', 'ND Daniel']"
-164,Common risk factors in the returns on stocks and bonds,7,36708,['KR French']
-88,Asymmetric dependence between stock market returns and news during COVID-19 financial turmoil,1,367,['CO Cepoi']
-143,Carry trade and momentum in currency markets,2,366,"['M Eichenbaum', 'C Burnside']"
-499,Information disclosure in financial markets,1,365,"['I Goldstein', 'L Yang']"
-815,What drives stock price movements?,1,364,['Z Da']
-269,Do mutual funds perform when it matters most to investors? US mutual fund performance and risk in recessions and expansions,1,363,['R Kosowski']
-750,Readability of 10‐K reports and stock price crash risk,1,363,"['K Wang', 'L Zhang', 'C Kim']"
-483,In search of attention,3,3626,"['J Engelberg', 'P Gao', 'Z Da']"
-95,"Bad news travels slowly: Size, analyst coverage, and the profitability of momentum strategies",1,3607,"['H Hong', 'JC Stein']"
-770,Review of new trends in the literature on factor models and mutual fund performance,1,36,"['IB Mateus', 'C Mateus', 'N Todorovic']"
-46,"Accounting information, disclosure, and the cost of capital",3,3592,['C Leuz']
-782,Rumors,1,359,[]
-567,Labor share decline and intellectual property products capital,1,356,"['Y Zheng', 'R Santaeulàlia‐Llopis', 'D Koh']"
-543,Investment analysis and portfolio management,1,3554,[]
-694,Persuasive evidence of market inefficiency,2,3513,[]
-414,From efficient markets theory to behavioral finance,2,3507,[]
-351,Evidence on the trade-off between real activities manipulation and accrual-based earnings management,2,3507,['AY Zang']
-169,Conditional skewness in asset pricing tests,4,3501,"['A Siddique', 'CR Harvey']"
-627,Modelling receivables and deferred revenues to detect revenue management,1,35,['J Zha Giedt']
-129,CEO overconfidence and financial crisis: Evidence from bank lending and leverage,1,348,"['JF Yen', 'CY Lin']"
-352,Evolution in value relevance of accounting information,1,345,"['CG McClure', 'ME Barth']"
-437,Have financial statements lost their relevance?,2,3441,[]
-367,"Fear sentiment, uncertainty, and bitcoin price dynamics: The case of COVID-19",1,344,"['N Zhao', 'C Chen']"
-289,Does risk management add value? A survey of the evidence,1,344,['BJ Simkins']
-139,Capital asset prices: A theory of market equilibrium under conditions of risk,2,34308,['WF Sharpe']
-817,What explains the stock markets reaction to Federal Reserve policy?,1,3414,['KN Kuttner']
-376,Financial attention,1,341,"['N Sicherman', 'G Loewenstein', 'DJ Seppi']"
-292,Does the implementation of green credit policy improve the ESG performance of enterprises? Evidence from a quasi-natural experiment in China,1,34,[]
-318,Earnings quality and short selling: Evidence from real earnings management in the United States,1,34,['KE Park']
-279,Does beta move with news? Firm-specific information flows and learning about profitability,1,338,['AJ Patton']
-766,Retail investor attention and stock price crash risk: evidence from China,1,336,"['L Xu', 'F Wen', 'G Kou']"
-787,Uncovering hedge fund skill from the portfolio holdings they hide,1,336,"['W Jiang', 'Y Tang', 'V Agarwal', 'B Yang']"
-438,Have we solved the idiosyncratic volatility puzzle?,1,335,"['RK Loh', 'K Hou']"
-99,Bankruptcy prediction for SMEs using transactional data and two-stage multiobjective feature selection,1,334,"['Y Chen', 'G Kou', 'Y Peng']"
-316,Earnings manipulation and expected returns,2,332,"['DC Nichols', 'MD Beneish', 'CMC Lee']"
-155,Climate change concerns and the performance of green vs. brown stocks,7,330,"['K Boudt', 'D Ardia', 'K Bluteau']"
-802,Variable selection and corporate bankruptcy forecasts,1,330,"['H Guo', 'Y Yu']"
-824,Whats good for you is good for me: the effect of CEO inside debt on the cost of equity,1,33,"['H Zhang', 'CH Shen']"
-67,Another puzzle: The growth in actively managed mutual funds,2,3296,['MJ Gruber']
-633,Monetary policy and the stock market: theory and empirical evidence,2,328,[]
-282,Does financial liberalization spur growth?,1,3269,"['CR Harvey', 'G Bekaert', 'C Lundblad']"
-688,Payout policy,5,326,"['J Farre-Mensa', 'R Michaely', 'F Allen']"
-608,"Masculinity, testosterone, and financial misreporting",1,326,"['LVAN LENT', 'Y Jia', 'Y Zeng']"
-410,Forward and spot exchange rates,1,3255,[]
-709,Post-earnings-announcement drift: delayed price response or risk premium?,2,3252,['JK Thomas']
-22,A new anomaly: The cross-sectional profitability of technical analysis,1,325,"['G Zhou', 'Y Han']"
-440,Hedge funds: quantitative insights,1,325,[]
-411,Foundations of complexity economics,1,324,['WB Arthur']
-306,ESG and responsible institutional investing around the world: A critical review,1,323,['P Matos']
-105,"Behavioral finance: Psychology, decision-making, and markets",1,323,['L Ackert']
-74,Are accruals mispriced? Evidence from tests of an intertemporal capital asset pricing model,1,322,[]
-622,Misbehaving: The making of behavioral economics,6,3213,['RH Thaler']
-590,Machine learning methods for systemic risk analysis in financial sectors.,1,321,"['G Kou', 'X Chao', 'E Herrera Viedma', 'FE Alsaadi', 'Y Peng']"
-412,Fraud triangle and earnings management based on the modified M-score: A study on manufacturing company in Indonesia,1,32,"['NPDRH Narsa', 'OA Wardhaningrum']"
-293,Does the location of stock exchange matter? A within-country analysis,1,32,"['W Zhang', 'N Zhu']"
-210,Correlations in price changes and volatility across international stock markets,1,3185,"['Y Hamao', 'RW Masulis']"
-631,Momentum strategies,1,3173,"['LKC Chan', 'N Jegadeesh']"
-659,"Oil price shocks, economic policy uncertainty and industry stock returns in China: Asymmetric effects with quantile regression",1,317,[]
-574,"Leverage change, debt overhang, and stock prices",2,316,"['Z Zhang', 'J Cai']"
-208,Corporate tax avoidance: A literature review and research agenda,1,315,[]
-672,Optimal consumption and investment with capital gains taxes,1,314,"['CS Spatt', 'RM Dammon']"
-555,"Investor sentiment, beta, and the cost of equity capital",1,314,"['JA Doukas', 'C Antoniou']"
-723,Prices of state-contingent claims implicit in option prices,1,3131,['DT Breeden']
-39,A test of the efficiency of a given portfolio,1,3131,['J Shanken']
-698,Political connections and corporate investments: Evidence from the recent anti-corruption campaign in China,1,313,"['GG Tian', 'X Pan']"
-125,CAPM for estimating the cost of equity capital: Interpreting the empirical evidence,1,313,"['R Jagannathan', 'Z Da', 'RJ Guo']"
-484,In search of distress risk,6,3120,"['JY Campbell', 'J Hilscher']"
-566,Labor mobility: Implications for asset pricing,1,312,[]
-286,Does option trading convey stock price information?,1,310,['J Hu']
-290,Does supply chain finance (SCF) alleviate funding constraints of SMEs? Evidence from China,1,31,"['JH Shen', 'CC Lee', 'Q Xie']"
-346,Estimation of large dimensional conditional factor models in finance,1,31,"['P Gagliardini', 'O Scaillet']"
-111,Beyond greed and fear: Understanding behavioral finance and the psychology of investing,2,3092,['H Shefrin']
-422,Generalized reduced rank tests using the singular value decomposition,1,3089,['F Kleibergen']
-257,Distressed firm and bankruptcy prediction in an international context: A review and empirical analysis of Altmans Z-score model,2,308,['M Iwanicz-Drozdowska']
-195,Corporate liquidity management: A conceptual framework and survey,1,308,"['I Cunha', 'M Campello', 'H Almeida']"
-711,Predicting excess stock returns out of sample: Can anything beat the historical average?,1,3075,['JY Campbell']
-708,Post loss/profit announcement drift,1,306,"['K Balakrishnan', 'E Bartov', 'L Faurel']"
-287,Does q-theory with investment frictions explain anomalies in the cross section of returns?,1,303,"['L Zhang', 'D Li']"
-313,Earnings announcements and systematic risk,2,302,"['M Wilson', 'P Savor']"
-154,Class-imbalanced dynamic financial distress prediction based on Adaboost-SVM ensemble combined with SMOTE and time weighting,1,302,"['J Sun', 'H Fujita', 'H Li']"
-482,Improving portfolio selection using option-implied volatility and skewness,1,301,"['R Uppal', 'V DeMiguel']"
-683,Overconfidence and speculative bubbles,1,3003,"['W Xiong', 'JA Scheinkman']"
-59,An empirical study to detect agency problems in listed corporations: an emerging market study,1,30,['HH Flayyih']
-481,Improved and optimized recurrent neural network based on PSO and its application in stock price prediction,1,30,[]
-277,Does FinTech reduce corporate excess leverage? Evidence from China,1,30,['X Lai']
-69,Apprenticeship training effects on entrepreneurship development in developing economies,2,30,"['CA Ezenwakwelu', 'NA Egbosionu']"
-751,Readability of accounting disclosures: a comprehensive review and research agenda,1,30,"['AM Gosselin', 'J Le Maux']"
-84,Asset pricing tests for pandemic risk,2,3,"['D Park', 'YJ Kang', 'YH Eom']"
-209,Correlation analysis of stocks and PMI index based on logistic regression model,1,3,[]
-455,How do institutions trade around corporate news,1,3,"['AG Huang', 'H Tan', 'R Wermers']"
-25,A novel approach to estimating the debt capacity of European SMEs,1,3,"['M Režňáková', 'M Karas']"
-215,"Crash risk exposure, diversification and cost of equity capital: evidence from a natural experiment in China",1,3,[]
-444,Heterogenous peer effects: How community connectivity affects car purchases,1,3,"['Y Zenou', 'F Zapatero', 'J Shemesh']"
-343,Essays on institutional investment and socially responsible investing,1,3,['L Schopohl']
-757,Realized skewness at high frequency and the link to a conditional market premium,1,3,['Z Liu']
-592,Machine learning techniques and data for stock market forecasting: A literature review,1,299,"['P Luukka', 'MM Kumbure', 'C Lohrmann']"
-187,"Corporate financial distress, restructuring, and bankruptcy: analyze leveraged finance, distressed debt, and bankruptcy",1,299,"['W Wang', 'E Hotchkiss']"
-40,A tug of war: Overnight versus intraday expected returns,1,297,"['D Lou', 'C Polk']"
-468,Identifying expectation errors in value/glamour strategies: A fundamental analysis approach,1,297,"['EC So', 'JD Piotroski']"
-216,Credit default swaps: A survey,1,296,"['P Augustin', 'MG Subrahmanyam']"
-199,Corporate social responsibility and firm performance in the hotel industry. The mediating role of green human resource management and environmental outcomes,1,294,['E Claver-Cortés']
-758,Recursive macroeconomic theory,1,2936,['L Ljungqvist']
-639,Multifactor models and their consistency with the ICAPM,1,292,"['P Maio', 'P Santa-Clara']"
-112,Big data as a governance mechanism,2,292,['C Zhu']
-87,Asset pricing with partial-moments,1,29,[]
-89,Asymmetric volatility risk: evidence from option markets,1,29,['G Vilkov']
-221,Cultural biases in economic exchange?,1,2882,"['L Zingales', 'P Sapienza', 'L Guiso']"
-322,Econometric measures of connectedness and systemic risk in the finance and insurance sectors,3,2879,"['M Getmansky', 'L Pelizzon', 'M Billio']"
-295,Does the stock market fully value intangibles? Employee satisfaction and equity prices,1,2856,['A Edmans']
-443,"Heterogeneous beliefs, speculation, and the equity premium",1,285,['A David']
-773,Risk aversion and wealth: Evidence from person-to-person lending portfolios,1,282,"['V Rappoport', 'E Ravina']"
-823,What ties return volatilities to price valuations and fundamentals?,1,282,"['P Veronesi', 'A David']"
-689,Peer versus pure benchmarks in the compensation of mutual fund managers,1,28,"['JP Gómez', 'Y Tang', 'L Ma', 'R Evans']"
-197,Corporate political connections: A multidisciplinary review,3,28,"['N Jia', 'Y Wei', 'JP Bonardi']"
-626,Modelling asymmetric exchange rate dependence,1,2797,['AJ Patton']
-110,Betting against beta,1,2795,"['A Frazzini', 'LH Pedersen']"
-646,"Natural language processing in accounting, auditing and finance: A synthesis of the literature with a roadmap for future research",1,279,['IE Fisher']
-681,Organizations and societal economic inequality: A review and way forward,1,279,"['H Bapuji', 'G Ertug']"
-426,Global portfolio optimization,1,2775,['R Litterman']
-233,Default risk in equity returns,3,2767,['Y Xing']
-409,Foreign speculators and emerging equity markets,1,2761,"['CR Harvey', 'G Bekaert']"
-223,"Customer satisfaction, analyst stock recommendations, and firm value",1,276,['X Luo']
-373,FinBERT: A large language model for extracting information from financial text,1,276,"['Y Yang', 'AH Huang']"
-838,Your money and your brain: how the new science of neuroeconomics can help make you rich,1,276,[]
-241,Digesting anomalies: An investment approach,42,2757,"['L Zhang', 'K Hou', 'C Xue']"
-285,Does idiosyncratic volatility proxy for risk exposure?,1,275,"['Z Chen', 'R Petkova']"
-827,When does the peer information environment matter?,1,275,"['BP Yost', 'N Shroff', 'RS Verdi']"
-320,Earnings quality measures and excess returns,1,273,['A Wagenhofer']
-338,"Employee satisfaction, labor market flexibility, and stock returns around the world",1,272,"['A Edmans', 'C Zhang', 'D Pu']"
-243,Disagreement and asset prices,1,270,"['BI Carlin', 'FA Longstaff']"
-227,Debt covenants and cross-sectional equity returns,1,27,"['J Helwege', 'Y Wang', 'JZ Huang']"
-283,Does gender diversity on corporate boards reduce information asymmetry in equity markets?,1,269,"['ME Lucas-Pérez', 'D Abad']"
-251,Dissecting anomalies,2,2680,['KR French']
-331,Emerging equity market volatility,1,2672,"['CR Harvey', 'G Bekaert']"
-795,Using artificial neural networks to pick stocks,1,266,['L Kryzanowski']
-774,Risk management in banking,1,2652,[]
-9,A comparison of new factor models,3,265,"['L Zhang', 'K Hou', 'C Xue']"
-642,"Mutual fund performance: An empirical decomposition into stock‐picking talent, style, transactions costs, and expenses",3,2644,['R Wermers']
-248,Disclosure quality and management trading incentives,1,264,['JL Rogers']
-298,Doing your literature review: Traditional and systematic techniques,1,2635,[]
-55,An analysis of the literature on systemic financial risk: A survey,2,263,['H Kimura']
-240,Differences of opinion and the cross section of stock returns,4,2623,"['KB Diether', 'CJ Malloy', 'A Scherbina']"
-506,Initial public offerings: A synthesis of the literature and directions for future research,1,260,"['E Volkova', 'M Lowry', 'R Michaely']"
-321,"Earnings surprises, growth expectations, and stock returns or dont let an earnings torpedo sink your portfolio",1,2596,"['RG Sloan', 'DJ Skinner']"
-175,Constraints on short-selling and asset price adjustment to private information,2,2563,['DW Diamond']
-250,Disentangling equity return regularities: New insights and investment opportunities,1,256,['KN Levy']
-347,Evaluating cross-sectional forecasting models for implied cost of capital,1,256,"['P Mohanram', 'KK Li']"
-661,On neural differential equations,1,256,['P Kidger']
-717,Presidential address: Discount rates,9,2559,['JH Cochrane']
-463,How pervasive is corporate fraud?,1,255,"['L Zingales', 'A Morse', 'IJ Dyck']"
-547,Investor attention and stock market activity: Evidence from France,1,255,"['A Aouadi', 'M Arouri', 'F Teulon']"
-767,Rethinking financial contagion: Information transmission mechanism during the COVID-19 pandemic,1,252,"['J Brzeszczyński', 'JW Goodell', 'L Yarovaya']"
-686,Parameter learning in general equilibrium: The asset pricing implications,1,252,"['M Johannes', 'P Collin-Dufresne']"
-120,Brand capital and firm value,1,251,"['MA Vitorino', 'F Belo', 'X Lin']"
-234,"Derivative financial instruments, tax aggressiveness and firm market value",1,25,[]
-399,Finding anomalies in China,2,25,"['K Hou', 'F Qiao']"
-203,"Corporate social responsibility performance and the cost of capital in BRICS countries. The problem of selectivity using environmental, social and governance scores",1,25,['BS Sergi']
-713,Predicting material accounting misstatements,3,2490,"['CR Larson', 'W Ge', 'PM Dechow']"
-511,"Innovative originality, profitability, and stock returns",1,245,"['PH Hsu', 'D Li', 'D Hirshleifer']"
-502,Information uncertainty and stock returns,1,2449,['XF Zhang']
-4,A better three-factor model that explains more anomalies,1,244,['L Zhang']
-837,"Yes, the APT is testable",1,244,['PH Dybvig']
-678,Options trading activity and firm valuation,1,243,"['E Schwartz', 'A Subrahmanyam']"
-218,Credit ratings and credit risk: Is one measure enough?,1,240,"['M Wilson', 'J Hilscher']"
-60,An integrated vector error correction and directed acyclic graph method for investigating contemporaneous causalities,1,24,[]
-804,Variance-of-variance risk premium,1,24,['A Kaeck']
-310,ESG rating disagreement and stock returns: Evidence from China,1,24,[]
-207,Corporate tax avoidance and stock price crash risk: Firm-level analysis,1,2390,"['Y Li', 'L Zhang']"
-400,Firm characteristics and stock returns: The role of investment-specific shocks,1,239,"['L Kogan', 'D Papanikolaou']"
-710,Predictable risk and returns in emerging markets,2,2384,['CR Harvey']
-721,Price momentum and trading volume,2,2381,"['CMC Lee', 'B Swaminathan']"
-632,Monetary environments and international stock returns,2,238,"['RR Johnson', 'CM Conover', 'GR Jensen']"
-662,On persistence in mutual fund performance,1,23662,[]
-537,International portfolio choice and corporation finance: A synthesis,8,2355,['B Dumas']
-658,Oil and the stock markets,2,2344,['CM Jones']
-508,"Innovation, future earnings, and market efficiency",2,234,['F Gu']
-7,A closer look at the short-term return reversal,1,234,"['Z Da', 'E Schaumburg']"
-134,"COVID-19, government policy responses, and stock market liquidity around the world: A note",1,234,"['R Kizys', 'A Zaremba', 'DY Aharon', 'E Demir']"
-617,Media coverage and the cross‐section of stock returns,1,2330,"['L Fang', 'J Peress']"
-541,International transmission of stock market movements,1,2330,[]
-793,Unprofitable affiliates and income shifting behavior,1,233,"['L De Simone', 'KJ Klassen']"
-123,"Bubbles, crises, and heterogeneous beliefs",1,232,['W Xiong']
-36,A sustainable capital asset pricing model (S-CAPM): Evidence from environmental integration and sin stock exclusion,1,232,['OD Zerbib']
-58,An empirical investigation of the arbitrage pricing theory,2,2317,[]
-715,Predicting takeover targets: A methodological and empirical analysis,1,2312,['KG Palepu']
-752,Real asset illiquidity and the cost of capital,1,231,"['GM Phillips', 'H Ortiz-Molina']"
-380,"Financial constraints, asset tangibility, and corporate investment",1,2300,"['M Campello', 'H Almeida']"
-354,Excess cash and stock returns,1,228,['M Simutin']
-816,What explains the dynamics of 100 anomalies?,2,228,[]
-834,Why is there a home bias? An analysis of foreign portfolio equity ownership in Japan,1,2279,['JK Kang']
-402,Firm financing over the business cycle,1,227,"['J Begenau', 'J Salomao']"
-453,"How distance, language, and culture influence stockholdings and trades",1,2254,['M Grinblatt']
-569,Labor-force heterogeneity and asset prices: The importance of skilled labor,2,225,"['X Lin', 'F Belo', 'X Zhao', 'J Li']"
-535,International asset allocation with regime shifts,2,2209,"['G Bekaert', 'A Ang']"
-727,Principles of corporate finance,1,22032,['F Allen']
-653,Non-standard errors in asset pricing: Mind your sorts,1,22,"['P Verwijmeren', 'B Van Vliet', 'A Soebhag']"
-503,Informed options trading before corporate events,1,22,"['P Augustin', 'MG Subrahmanyam']"
-201,Corporate social responsibility and the term structure of CDS spreads,1,22,"['Y Li', 'F Gao', 'ZK Zhong', 'X Wang']"
-565,"Labor income, relative wealth concerns, and the cross section of stock returns",1,22,"['JP Gómez', 'F Zapatero', 'R Priestley']"
-446,High idiosyncratic volatility and low returns: International and further US evidence,1,2186,"['Y Xing', 'X Zhang', 'A Ang', 'RJ Hodrick']"
-500,Information linkages and correlated trading,1,218,"['P Colla', 'A Mele']"
-613,Measuring investor sentiment,1,216,['G Zhou']
-270,Do non–audit service fees impair auditor independence? Evidence from going concern audit opinions,1,2137,"['ML DeFond', 'K Raghunandan']"
-504,Informed options trading prior to takeover announcements: Insider trading?,1,211,"['P Augustin', 'M Brenner']"
-831,Who gambles in the stock market?,1,2107,['A Kumar']
-480,Implications of security market data for models of dynamic economies,1,2105,"['LP Hansen', 'R Jagannathan']"
-666,On the estimation of beta-pricing models,1,2104,['J Shanken']
-194,Corporate green innovation and stock liquidity in China,1,21,[]
-160,Common auditors in M&A transactions,1,209,"['Y Kim', 'Y Cai', 'HD White', 'JC Park']"
-416,Fundamental information analysis,1,2077,['B Lev']
-441,"Herding behaviour in energy stock markets during the Global Financial Crisis, SARS, and ongoing COVID-19",1,206,"['M McAleer', 'CL Chang']"
-803,"Variance risk premia, asset predictability puzzles, and macroeconomic uncertainty",1,206,['H Zhou']
-116,Bond risk premia,1,2057,"['JH Cochrane', 'M Piazzesi']"
-226,Death and jackpot: Why do individual investors hold overpriced stocks?,1,205,"['N Kapadia', 'J Conrad', 'Y Xing']"
-768,Returns of claims on the upside and the viability of U-shaped pricing kernels,2,205,"['D Madan', 'G Bakshi', 'G Panayotov']"
-601,Market liquidity as a sentiment indicator,2,2047,"['JC Stein', 'M Baker']"
-82,Asset growth and the cross‐section of stock returns,4,2045,"['MJ Schill', 'MJ Cooper', 'H Gulen']"
-264,Do institutional investors prefer near‐term earnings over long‐run value?,1,2035,['BJ Bushee']
-260,Do board gender quotas affect firm value? Evidence from California Senate Bill No. 826,1,203,"['KM Kahle', 'D Greene', 'VJ Intintoli']"
-114,"Block ownership, trading activity, and market liquidity",1,203,"['P Brockman', 'DY Chung', 'XS Yan']"
-670,Opportunism as a firm and managerial trait: Predicting insider trading profits and misconduct,1,202,"['U Ali', 'D Hirshleifer']"
-676,Option prices leading equity prices: Do option traders have an information advantage?,1,202,"['J Livnat', 'Y Zhang']"
-63,Analyst coverage and earnings management,1,2017,['FF Yu']
-806,Volatility in international stock markets: An empirical study during COVID-19,1,201,"['P Bakhshi', 'H Gupta', 'R Chaudhary']"
-807,"Volatility, Duration, and Value-At-Risk",1,2,[]
-0,A Better Estimate of Internally Generated Intangible Capital,1,2,"['A Iqbal', 'A Srivastava']"
-581,Local equity market participation and stock liquidity,2,2,['L Zhang']
-153,Christopher,1,1996,[]
-777,"Risk, return, and equilibrium: Empirical tests",4,19757,[]
-65,Anomalies and market efficiency,10,1970,['GW Schwert']
-334,Empirical cross-sectional asset pricing: a survey,3,197,['A Goyal']
-819,What is the Expected Return on a Stock?,1,196,"['C Wagner', 'IWR Martin']"
-729,Product market competition and industry returns,1,194,[]
-529,Interest-rate risk and the pricing of depository financial intermediary common stock: Empirical evidence,1,194,[]
-330,Electricity price forecasting: A review of the state-of-the-art with a look into the future,1,1932,['R Weron']
-536,International differences in the cost of equity capital: Do legal institutions and securities regulation matter?,2,1908,"['C Leuz', 'L Hail']"
-685,Panel data models with interactive fixed effects,1,1907,['J Bai']
-252,Dissecting anomalies in Islamic stocks: Integrated or segmented pricing?,1,19,"['A Zaremba', 'A Maydybura', 'A Karathanasopoulos']"
-664,On the Choi–Lam analogue of Hilberts 1888 theorem for symmetric forms,1,19,['B Reznick']
-505,"Informed trade, uninformed trade and stock price delay",1,19,['Q Wu']
-11,A comprehensive study of liquidity before and after SEOs and SEO underpricing,1,19,['KCJ Wei']
-81,Artificial intelligence and machine learning in finance: A bibliometric review,2,187,['MM Alshater']
-485,In short supply: Short-sellers and stock returns,1,186,"['DC Nichols', 'MD Beneish', 'CMC Lee']"
-413,Fraudulent financial reporting: Consideration of industry traits and corporate governance mechanisms,1,1858,"['MS Beasley', 'DR Hermanson', 'JV Carcello']"
-764,Restoring trust after fraud: Does corporate governance matter?,1,1850,['DB Farber']
-647,"Neoclassical finance, behavioral finance and noise traders: A review and assessment of the literature",1,185,['V Ramiah']
-265,Do liquidity measures measure liquidity?,2,1845,"['CA Trzcinka', 'RY Goyenko', 'CW Holden']"
-798,Value investing: The use of historical financial statement information to separate winners from losers,5,1841,['JD Piotroski']
-71,Arbitrage pricing theory and utility stock returns,2,184,[]
-652,Non-normal data: Is ANOVA still a valid option?,1,1831,['MJ Blanca Mena']
-200,Corporate social responsibility and firm risk: Theory and empirical evidence,4,1830,"['R Albuquerque', 'Y Koskinen']"
-781,Risks for the long run: Estimation with time aggregation,2,183,"['D Kiku', 'R Bansal', 'A Yaron']"
-8,A comparative analysis of current credit risk models,1,1821,['D Galai']
-378,Financial constraints and stock returns,1,1820,['C Polk']
-267,Do managers disclose or withhold bad news? Evidence from short interest,1,182,"['Y Kim', 'L Su', 'GM Mian', 'D Bao']"
-430,Goodwill impairment: The effects of public enforcement and monitoring by institutional investors,1,182,['WR Landsman']
-249,Discretionary-accruals models and audit qualifications,1,1815,['E Bartov']
-78,Are insider trades informative?,1,1814,['I Lee']
-271,Do politically connected boards affect firm value?,2,1810,['E Goldman']
-185,Corporate diversification and stock risk: Evidence from a global shock,1,18,['E Onali']
-560,Is the renminbi a safe-haven currency? Evidence from conditional coskewness and cokurtosis,1,18,['Y Zhou']
-417,Funding black high-growth startups,1,18,"['M Marx', 'E Yimfor', 'LD Cook']"
-477,Impact of earnings management on working capital management efficiency,1,18,"['PC Padhan', 'KS Sawarni']"
-783,Stock markets reaction to money supply: A nonparametric analysis,2,18,['A Taamouti']
-540,International tests of the ZCAPM asset pricing model,2,18,"['JW Kolari', 'HA Butt', 'JZ Huang']"
-588,Low‐risk anomalies?,1,178,"['P Schneider', 'C Wagner', 'J Zechner']"
-589,Machine learning for stock selection,1,178,[]
-792,Universal banking and firm risk-taking,1,177,"['K John', 'A Saunders']"
-278,Does academic research destroy stock return predictability?,4,1753,"['J Pontiff', 'RD McLean']"
-832,Why and how investors use ESG information: Evidence from a global survey,1,1748,"['G Serafeim', 'A Amel-Zadeh']"
-281,Does crackdown on corruption reduce stock price crash risk? Evidence from China,1,174,"['Y Xie', 'Y Chen']"
-122,Bubbles for fama,1,174,"['A Shleifer', 'Y You', 'R Greenwood']"
-650,New low-frequency spread measures,1,174,['CW Holden']
-454,How do house prices affect consumption? Evidence from micro data,1,1731,"['JY Campbell', 'JF Cocco']"
-461,How much of the corporate-treasury yield spread is due to credit risk?,1,1730,['JZ Huang']
-450,"House prices, home equity–based borrowing, and the us household leverage crisis",1,1730,"['A Sufi', 'A Mian']"
-648,Networks in production: Asset pricing implications,1,173,['B Herskovic']
-542,International variations in ESG disclosure–do cross-listed companies care more?,2,173,"['EP Yu', 'B Van Luu']"
-94,"Bad beta, good beta",2,1722,['JY Campbell']
-131,COVID-19 effects on the S&P 500 index,1,172,['H Yilmazkuday']
-159,"Commercial bank net interest margins, default risk, interest-rate risk, and off-balance sheet banking",1,1719,[]
-205,Corporate sustainability: First evidence on materiality,1,1716,"['G Serafeim', 'A Yoon']"
-145,Cash flow patterns as a proxy for firm life cycle,1,1713,['V Dickinson']
-812,"Voluntary disclosure, earnings quality, and cost of capital",2,1712,"['P Olsson', 'D Nanda']"
-255,Dissecting climate risks: Are they reflected in stock prices?,1,171,"['R Faccini', 'R Matin', 'G Skiadopoulos']"
-85,Asset pricing tests with long-run risks in consumption growth,2,171,[]
-719,Price discovery in CDS and equity markets: Default risk-based heterogeneity in the systematic investment grade and high yield sectors,1,17,['WJ Procasky']
-749,Re-evaluating portfolio diversification and design using cryptocurrencies: Are decentralized cryptocurrencies enough?,2,17,"['A Khaki', 'W Bakry', 'M Prasad']"
-66,Another look at momentum crashes: momentum in the European Monetary Union,1,17,['K Grobys']
-48,"Accounting valuation, market expectation, and cross-sectional stock returns",1,1696,"['CMC Lee', 'R Frankel']"
-530,Intermediary asset pricing,1,1686,"['Z He', 'A Krishnamurthy']"
-473,Idiosyncratic risk matters!,2,1685,"['P Santa‐Clara', 'A Goyal']"
-618,"Media coverage of firms: Background, integration, and directions for future research",1,168,['AG Oliver']
-372,"Female directors, capital structure, and financial distress",1,168,"['CJ García', 'B Herrero']"
-381,Financial decision-making in markets and firms: A behavioral perspective,2,1669,['RH Thaler']
-23,A new approach to measuring financial contagion,1,1667,"['RM Stulz', 'GA Karolyi', 'KH Bae']"
-778,Risks and portfolio decisions involving hedge funds,3,1665,['V Agarwal']
-655,Non‐GAAP earnings disclosure in loss firms,1,166,"['D Veenman', 'E Leung']"
-602,Market microstructure: A survey,4,1658,[]
-239,Differences in herding: Individual vs. institutional investors,1,165,[]
-363,Extreme downside risk and expected stock returns,1,165,[]
-684,"Ownership structure, deregulation, and bank risk taking",1,1638,"['A Saunders', 'NG Travlos']"
-365,Factor momentum everywhere,1,163,['BT Kelly']
-840,… and the cross-section of expected returns,207,1628,"['Y Liu', 'CR Harvey', 'H Zhu']"
-324,Economic links and predictable returns,1,1623,"['A Frazzini', 'L Cohen']"
-753,Real earnings management and future performance,1,162,"['MS Nazir', 'A Kaleem']"
-731,Product market power and stock market liquidity,1,162,['JR Kale']
-121,Breadth of ownership and stock returns,2,1602,"['H Hong', 'J Chen', 'JC Stein']"
-297,Does the volatility of volatility risk forecast future stock returns?,1,16,"['X Fu', 'R Bu', 'F Jawadi']"
-418,Further tests of the ZCAPM asset pricing model,2,16,"['JW Kolari', 'JZ Huang']"
-578,Liquidity and expected returns: Lessons from emerging markets,1,1594,"['CR Harvey', 'G Bekaert']"
-490,Industries and stock return reversals,1,159,"['A Hameed', 'GM Mian']"
-358,Experimental research in financial accounting,2,1586,"['MW Nelson', 'R Bloomfield', 'R Libby']"
-472,Idiosyncratic risk and the cross-section of expected stock returns,1,1582,['F Fu']
-514,Inside the investors brain: The power of mind over money,1,157,[]
-549,Investor attention and stock returns,1,157,"['G Zhou', 'G Tang']"
-667,On the industry concentration of actively managed equity mutual funds,1,1567,"['C Sialm', 'M Kacperczyk', 'L Zheng']"
-391,"Financial literacy, retirement planning and household wealth",1,1562,"['RJM Alessie', 'A Lusardi', 'MCJ Van Rooij']"
-301,Downside risk,3,1560,"['Y Xing', 'J Chen', 'A Ang']"
-733,Production networks and stock returns: The role of vertical creative destruction,1,156,"['M Gofman', 'Y Wu', 'G Segal']"
-800,Value-relevance of corporate social responsibility: Evidence from short selling,1,155,"['PK Jain', 'Z Rezaee', 'A Jain']"
-156,"Climate change, risk factors and stock returns: A review of the literature",8,155,['A Venturini']
-162,Common risk factors in bank stocks,1,154,"['JW Kolari', 'DR Fraser', 'AM Viale']"
-420,Game on: Social networks and markets,1,154,['LH Pedersen']
-561,Is the risk of bankruptcy a systematic risk?,1,1530,['ID Dichev']
-509,"Innovations in interest rates, duration transformation, and bank stock returns",1,153,[]
-663,On stock market returns and monetary policy,1,1498,[]
-100,Bankruptcy prediction in banks and firms via statistical and intelligent techniques–A review,1,1495,"['V Ravi', 'PR Kumar']"
-583,Local return factors and turnover in emerging stock markets,1,1489,['KG Rouwenhorst']
-604,Market states and momentum,1,1487,"['RC Gutierrez Jr', 'MJ Cooper']"
-43,Accounting accruals and auditor reporting conservatism,1,1475,"['J Krishnan', 'JR Francis']"
-475,Immunizing markets against the pandemic: COVID-19 vaccinations and stock volatility around the world,1,147,"['A Zaremba', 'E Demir', 'R Kizys', 'W Rouatbi']"
-736,"Profitability, investment and average returns",2,1469,['KR French']
-19,A liquidity-augmented capital asset pricing model,3,1457,[]
-225,Dealer versus auction markets: A paired comparison of execution costs on NASDAQ and the NYSE,1,1456,[]
-836,Wisdom of crowds: The value of stock opinions transmitted through social media,1,1453,"['BH Hwang', 'H Chen', 'P De', 'Y Hu']"
-18,A labor capital asset pricing model,2,145,"['LA Kuehn', 'JJ Wang', 'M Simutin']"
-229,Decomposing firm value,1,144,"['MA Vitorino', 'F Belo', 'VD Gala', 'J Salomao']"
-805,Volatility and the cross-section of corporate bond returns,2,143,"['KH Chung', 'C Wu']"
-527,Integrating corporate social responsibility criteria into executive compensation and firm innovation: International evidence,1,143,"['A Tsang', 'KT Wang']"
-747,Rational contagion and the globalization of securities markets,1,1428,"['EG Mendoza', 'GA Calvo']"
-737,"Prospect theory, mental accounting, and momentum",2,1426,"['M Grinblatt', 'B Han']"
-498,Information content of equity analyst reports,1,1410,"['P Asquith', 'MB Mikhail']"
-605,Market tests of capital adequacy of large commercial banks,1,141,[]
-629,Momentum investing and business cycle risk: Evidence from pole to pole,1,1408,"['JS Martin', 'X Ji', 'JM Griffin']"
-337,Empirical tests of asset pricing models with individual assets: Resolving the errors-in-variables bias in risk premium estimation,1,140,"['J Noh', 'K Pukthuanthong', 'N Jegadeesh']"
-784,The development of Chinas stock market and stakes for the global economy,1,140,"['JN Carpenter', 'RF Whitelaw']"
-340,Equilibrium asset pricing under the Lévy process with stochastic volatility and moment risk premiums,1,14,"['J Huang', 'X Ruan', 'JE Zhang']"
-211,Costly external equity: implications for asset pricing anomalies,1,14,['E Li']
-469,Idiosyncratic information and the cost of equity capital: A meta-analytic review of the literature,1,14,['M Schreder']
-176,Consumer confidence and asset prices: Some empirical evidence,1,1394,['M Lemmon']
-571,Large sample sieve estimation of semi-nonparametric models,2,1392,['X Chen']
-748,Rationality and analysts forecast bias,1,1381,[]
-734,Production-based measures of risk for asset pricing,1,138,['F Belo']
-300,Dotcom mania: The rise and fall of internet stock prices,2,1377,['M Richardson']
-637,Multi-period corporate default prediction with stochastic covariates,1,1362,"['K Wang', 'D Duffie']"
-344,Estimating standard errors in finance panel data sets: Comparing approaches,2,13563,['MA Petersen']
-193,"Corporate governance, product market competition, and equity prices",2,1353,"['X Giroud', 'HM Mueller']"
-651,Nominal rigidities and asset pricing,1,135,['M Weber']
-383,Financial development and economic growth: views and agenda,1,13431,['R Levine']
-474,Illiquidity and stock returns: cross-section and time-series effects,9,13405,['Y Amihud']
-64,Analysts and anomalies,1,134,"['J Pontiff', 'J Engelberg', 'RD McLean']"
-439,Hedge fund benchmarks: A risk-based approach,1,1335,['DA Hsieh']
-16,A framework for understanding and researching audit quality,1,1322,['JR Francis']
-725,Pricing climate change exposure,1,132,"['L Van Lent', 'G Vilkov', 'Z Sautner']"
-360,Explanations for the volatility effect: An overview based on the CAPM assumptions,1,132,"['D Blitz', 'P Van Vliet']"
-762,Replicating anomalies,67,1311,"['L Zhang', 'K Hou', 'C Xue']"
-442,Herding in smart-beta investment products,1,13,"['E Krkoska', 'KR Schenk-Hoppé']"
-735,"Profitability, audit quality, and firm value: Case on Indonesian manufacturing companies",1,13,['AL Wijaya']
-826,When and how is voluntary disclosure quality reflected in equity prices?,2,13,['F Eugster']
-408,Foreign ownership and stock liquidity uncertainty,1,13,"['R Faff', 'H Zhang']"
-30,A risk/return paradox for strategic management,1,1298,[]
-296,Does the stock market overreact?,3,12938,['R Thaler']
-636,"More than a feeling: Confidence, uncertainty, and macroeconomic fluctuations",1,129,['L Nowzohour']
-302,Dumb money: Mutual fund flows and the cross-section of stock returns,1,1289,['A Frazzini']
-308,ESG performance and firm value: The moderating role of disclosure,3,1287,[]
-587,Low-risk investing without industry bets,1,128,"['A Frazzini', 'LH Pedersen']"
-126,CAPM: an absurd model,1,128,['P Fernandez']
-83,Asset pricing at the millennium,7,1273,['JY Campbell']
-101,Bankruptcy prediction using support vector machine with optimal choice of kernel function parameters,1,1272,['YC Lee']
-821,What makes firms vulnerable to the Russia–Ukraine crisis?,2,127,"['DK Pandey', 'W Abbassi', 'V Kumari']"
-184,Corporate distress and turnaround: integrating the literature and directing future research,1,127,[]
-327,Efficiency and the bear: Short sales and markets around the world,1,1265,"['N Zhu', 'A Bris', 'WN Goetzmann']"
-57,An empirical evaluation of accounting income numbers,3,12644,"['R Ball', 'P Brown']"
-192,Corporate governance and firm performance,1,1256,"['ML Caylor', 'LD Brown']"
-56,An empirical analysis of illegal insider trading,1,1250,[]
-364,Factor momentum,1,125,[]
-573,Learning optimized risk scores,1,124,"['C Rudin', 'B Ustun']"
-491,Industry concentration and average stock returns,1,1233,"['K Hou', 'DT Robinson']"
-280,Does corporate eco-innovation affect stock price crash risk?,1,123,"['M Nadeem', 'M Haseeb', 'R Zaman', 'N Atawnah']"
-253,Dissecting anomalies with a five-factor model,2,1227,['KR French']
-830,Which shorts are informed?,1,1223,"['CM Jones', 'X Zhang', 'E Boehmer']"
-801,Variable rare disasters: An exactly solved framework for ten puzzles in macro-finance,1,1221,['X Gabaix']
-315,"Earnings management, firm performance, and the value of Indian manufacturing firms",1,122,['HS Mand']
-707,Positive accounting theory,1,12140,"['JL Zimmerman', 'RL Watts']"
-151,Chasing private information,1,121,"['ES Pagnotta', 'M Kacperczyk']"
-585,Long-run risk and the persistence of consumption shocks,2,121,"['C Tebaldi', 'F Ortu', 'A Tamoni']"
-833,Why do investors hold socially responsible mutual funds?,1,1203,"['P Smeets', 'A Riedl']"
-465,Human behavior and the efficiency of the financial system,1,1201,[]
-523,Intangible capital and the investment-q relation,1,1200,"['RH Peters', 'LA Taylor']"
-690,Pension accounting and research: a review,1,120,[]
-521,Institutional trading around corporate news: Evidence from textual analysis,1,12,"['AG Huang', 'H Tan', 'R Wermers']"
-13,A decomposition of conditional risk premia and implications for representative agent models,1,12,"['F Chabi-Yo', 'JA Loudis']"
-388,"Financial distress, prediction, and strategies by firms: A systematic review of literature",1,12,"['EB Mallinguh', 'Z Zéman']"
-370,Feedback trading: a review of theory and empirical evidence,1,12,"['B Gebka', 'F Economou', 'K Gavriilidis']"
-657,Numerical methods for unconstrained optimization and nonlinear equations,1,11985,['JE Dennis Jr']
-577,Liquidity and asset prices,2,1195,['Y Amihud']
-28,A review of the empirical disclosure literature: discussion,2,1192,['JE Core']
-34,A survey of systemic risk analytics,3,1188,['M Flood']
-312,"ESG, liquidity, and stock returns",3,118,['D Luo']
-487,Income hedging and portfolio decisions,1,118,"['Y Bonaparte', 'A Kumar', 'GM Korniotis']"
-423,Generous charity to preserve green image? Exploring linkage between strategic donations and environmental misconduct,1,118,"['B Wu', 'A Monfort']"
-6,A closed-form solution for options with stochastic volatility with applications to bond and currency options,2,11741,[]
-680,Organizational transparency: A new perspective on managing trust in organization-stakeholder relationships,1,1173,"['EC Tomlinson', 'AK Schnackenberg']"
-266,"Do macro variables, asset markets, or surveys forecast inflation better?",1,1172,"['G Bekaert', 'A Ang', 'M Wei']"
-614,Measuring liquidity in emerging markets,1,117,"['W Kang', 'H Zhang']"
-305,Dynamic corporate liquidity,1,117,"['L Schmid', 'B Nikolov']"
-191,Corporate governance and equity prices,5,11690,"['A Metrick', 'P Gompers']"
-119,"Book‐to‐market equity, distress risk, and stock returns",1,1160,"['ML Lemmon', 'JM Griffin']"
-512,Input specificity and the propagation of idiosyncratic shocks in production networks,2,1160,"['JN Barrot', 'J Sauvagnat']"
-170,Conditioning variables and the cross section of stock returns,2,1157,"['WE Ferson', 'CR Harvey']"
-53,Aggregate earnings and why they matter✩,1,115,"['R Ball', 'G Sadka']"
-102,Behavioral economics of accounting: A review of archival research on individual decision makers,1,115,"['K Yeung', 'L Zuo', 'M Hanlon']"
-496,"Information asymmetry, corporate disclosure, and the capital markets: A review of the empirical disclosure literature",1,11415,"['PM Healy', 'KG Palepu']"
-732,"Product market threats, payouts, and financial flexibility",2,1140,"['G Phillips', 'G Hoberg', 'N Prabhala']"
-478,Impact of ethical screening on investment performance: the case of the Dow Jones Islamic Index,1,114,['A Hassan']
-206,Corporate takeovers and economic efficiency,1,114,['BE Eckbo']
-238,Differences between politically connected and nonconnected firms: A cross‐country analysis,2,1137,['M Faccio']
-374,Financial Distress Prediction in an International Context: A Review and Empirical Analysis of Altmans Z‐Score Model,4,1131,['M Iwanicz‐Drozdowska']
-26,A review of capital asset pricing models,1,112,['DUA Galagedera']
-359,Explaining the recent failure of value investing,1,112,"['B Lev', 'A Srivastava']"
-182,Corporate bond liquidity before and after the onset of the subprime crisis,1,1116,"['J Dick-Nielsen', 'D Lando', 'P Feldhütter']"
-130,COVID-19 and the march 2020 stock market crash. Evidence from S&P1500,1,1108,"['M Vega', 'M Mazur', 'M Dang']"
-329,Efficient capital markets: II,12,11065,[]
-144,Carry trades and global foreign exchange volatility,3,1105,"['L Menkhoff', 'L Sarno', 'M Schmeling']"
-539,International tests of a five-factor asset pricing model,1,1103,['KR French']
-640,Multivariate tests of financial models: A new approach,1,1102,[]
-356,Expected idiosyncratic volatility measures and expected returns,1,110,"['H He', 'JD Fink']"
-79,Are investors overconfident,1,11,['C Vega']
-149,Changes in Risk Factor Disclosures and the Variance Risk Premium.,1,11,"['MR Lyle', 'F Siano', 'EJ Riedl']"
-294,Does the market understand time variation in the equity premium?,1,11,"['NJ Gormsen', 'E Lazarus']"
-756,Real-time profitability of published anomalies: An out-of-sample test,1,11,"['Z Huang', 'JZ Huang']"
-342,Essays in financial economics,15,11,['K Li']
-739,Puzzles in international financial markets,2,1099,['KK Lewis']
-643,Narrative economics: How stories go viral and drive major economic events,2,1096,[]
-459,How does telecommunications infrastructure affect eco-efficiency? Evidence from a quasi-natural experiment in China,1,109,"['H Wu', 'Y Hao', 'M Irfan']"
-654,"Nonlinear pricing kernels, kurtosis preference, and evidence from the cross section of equity returns",2,1089,['RF Dittmar']
-349,Event studies: A review of issues and methodology,1,1086,['PP Peterson']
-177,Consumption-based asset pricing,2,1082,['JY Campbell']
-138,Can time‐varying risk of rare disasters explain aggregate stock market volatility?,1,1081,['JA Wachter']
-332,Emerging markets finance,1,1076,"['CR Harvey', 'G Bekaert']"
-385,Financial distress and its determinants: Evidence from insurance companies in Ethiopia,1,107,[]
-510,Innovative efficiency and stock returns,5,1068,"['PH Hsu', 'D Li', 'D Hirshleifer']"
-152,Choosing factors,4,1062,['KR French']
-552,Investor sentiment aligned: A powerful predictor of stock returns,5,1061,"['D Huang', 'J Tu', 'G Zhou', 'F Jiang']"
-515,Insider trading controversies: A literature review,1,106,['U Bhattacharya']
-679,Organization capital and the cross‐section of expected returns,1,1053,"['D Papanikolaou', 'AL Eisfeldt']"
-779,Risks and returns of cryptocurrency,4,1044,"['Y Liu', 'A Tsyvinski']"
-691,Performance characteristics of hedge funds and commodity funds: Natural vs. spurious biases,1,1031,['DA Hsieh']
-341,Equity volatility term structures and the cross section of option returns,1,103,['A Vasquez']
-638,Multifactor explanations of asset pricing anomalies,2,10284,['KR French']
-319,Earnings quality and stock returns,1,1028,"['K Chan', 'N Jegadeesh']"
-77,Are financial assets priced locally or globally?,5,1025,"['RM Stulz', 'GA Karolyi']"
-27,A review of the earnings management literature and its implications for standard setting,2,10214,"['PM Healy', 'JM Wahlen']"
-167,"Competition, markups, and predictable returns",1,102,"['A Corhay', 'H Kung', 'L Schmid']"
-353,Ex ante skewness and expected stock returns,3,1005,"['J Conrad', 'E Ghysels', 'RF Dittmar']"
-70,Arbitrage asymmetry and the idiosyncratic volatility puzzle,8,1000,"['J Yu', 'RF Stambaugh', 'Y Yuan']"
-595,Man versus machine learning: The term structure of earnings expectations and conditional biases,1,100,"['X Han', 'JH Van Binsbergen']"
-582,"Local religious norms, corporate social responsibility, and firm value",1,100,"['Y Chen', 'L Zolotoy', 'D Osullivan']"
-456,How do you capture liquidity? A review of the literature on low‐frequency stock liquidity,4,100,"['H Le', 'A Gregoriou']"
-366,Fair value accounting impact on decision-usefulness of accounting information: evidence from accounting standards update 2016–01 on the US insurance industry,1,10,[]
-495,"Information Quality, Heterogenous Beliefs and Asset Pricing",2,1,['Z Qin']
-436,Has increased prominence of translation results changed net investment hedging practice?,1,1,['B Marshall']
-377,Financial constraints and security issuance,1,1,[]
-744,R&D Expenditures and Idiosyncratic Risk: Good and Bad Volatility,1,1,[]
-299,Dont Get Carried Away: Uncovering Macro Characteristics in Carry Portfolios,1,1,[]
-671,Optimal Domestic Equity Allocations for Australian Investors and the Role of Franking Credits,1,1,[]
+532,International Series in Operations Research & Management Science,4,5165,[]
+544,Investment performance of common stocks in relation to their price‐earnings ratios: A test of the efficient market hypothesis,1,5196,[]
+333,Empirical asset pricing: Models and methods,2,52,['W Ferson']
+656,"Non‐fungible tokens (NFTs): A review of pricing determinants, applications and opportunities",1,52,"['R Kräussl', 'A Tugnetti']"
+113,Bitcoin and portfolio diversification: A portfolio optimization approach,2,52,['W Bakry']
+811,Volatility‐managed portfolios,1,523,['A Moreira t Muir']
+428,Good and bad uncertainty: Macroeconomic and financial market implications,5,525,"['I Shaliastovich', 'G Segal', 'A Yaron']"
+609,Matching and the changing properties of accounting earnings over the last 40 years,1,529,"['VW Tang', 'ID Dichev']"
+740,Quadratic shrinkage for large covariance matrices,1,53,"['M Wolf', 'O Ledoit']"
+755,Real effects of financial reporting and disclosure on innovation,1,53,['A Tamayo']
+522,Intangible assets–insights from a literature review,1,53,['ME Nichita']
+533,International accounting standards and accounting quality,1,5321,"['WR Landsman', 'ME Barth']"
+415,From state to market: A survey of empirical studies on privatization,1,5331,"['JM Netter', 'WL Megginson']"
+660,"Oil shocks, policy uncertainty and stock market return",1,535,"['W Kang', 'RA Ratti']"
+311,ESG shareholder engagement and downside risk,1,537,"['AGF Hoepner', 'I Oikonomou', 'Z Sautner']"
+769,Returns to contrarian investment strategies: Tests of naive expectations hypotheses,1,538,"['PM Dechow', 'RG Sloan']"
+603,Market skewness risk and the cross section of stock returns,3,539,"['K Jacobs', 'BY Chang']"
+133,COVID-19 pandemic & financial market volatility; evidence from GARCH models,2,54,"['M Khan', 'UN Kayani']"
+557,Is business saving really none of our business?,1,54,"['R Bebczuk', 'E Cavallo']"
+304,Dynamic asset pricing theory,3,5405,['D Duffie']
+432,"Greenwashing in environmental, social and governance disclosures",2,541,"['EP Yu', 'B Van Luu']"
+261,Do corporate taxes hinder innovation?,2,542,"['M Singh', 'A Mukherjee', 'A Žaldokas']"
+405,Firm‐level climate change exposure,4,542,"['L Van Lent', 'G Vilkov', 'Z Sautner']"
+68,Applications of deep learning in stock market prediction: recent progress,1,544,['W Jiang']
+517,Institutional industry herding,1,549,"['RW Sias', 'N Choi']"
+586,Long-term discount rates do not vary across firms,1,55,['JT Linnainmaa']
+168,"Competition, profitability, and discount rates",1,55,"['WW Dou', 'W Wu', 'Y Ji']"
+230,Deep learning and the cross-section of expected returns,1,56,[]
+822,What matters in corporate governance?,1,5608,"['A Cohen', 'L Bebchuk']"
+630,"Momentum profits, factor pricing, and macroeconomic risk",1,561,['L Zhang']
+97,Banking sector performance during the COVID-19 crisis,1,564,"['A Demirgüç-Kunt', 'C Ruiz-Ortega', 'A Pedraza']"
+335,"Empirical evidence on capital investment, growth options, and security returns",1,567,"['L Garcia‐Feijoo', 'CW Anderson']"
+309,ESG rating disagreement and stock returns,8,567,['P Krueger']
+704,Politically connected firms,1,5686,['M Faccio']
+449,Higher-order moment risk connectedness and optimal investment strategies between international oil and commodity futures markets: Insights from the COVID-19 …,1,57,"['A Maghyereh', 'J Cui']"
+673,Optimal option portfolio strategies: Deepening the puzzle of index option mispricing,1,57,"['P Santa-Clara', 'JA Faias']"
+548,Investor attention and stock market volatility,2,572,"['M Hasler', 'D Andrei']"
+202,Corporate social responsibility as an employee governance tool: Evidence from a quasi‐experiment,1,574,"['J Luo', 'C Flammer']"
+789,"Understanding earnings quality: A review of the proxies, their determinants and their consequences",9,5826,"['W Ge', 'C Schrand', 'P Dechow']"
+796,Value and growth investing: Review and update,4,586,['LKC Chan']
+687,Parametric portfolio policies: Exploiting characteristics in the cross-section of equity returns,1,587,['P Santa-Clara']
+745,R&D and the incentives from merger and acquisition activity,1,587,"['GM Phillips', 'A Zhdanov']"
+288,Does realized skewness predict the cross-section of equity returns?,2,587,"['K Jacobs', 'D Amaya']"
+41,"A unified theory of underreaction, momentum trading, and overreaction in asset markets",4,5871,"['H Hong', 'JC Stein']"
+596,Manager sentiment and stock returns,2,588,"['G Zhou', 'X Martin', 'F Jiang', 'J Lee']"
+716,Prediction of financial distress: An empirical study of listed Chinese companies using data mining,1,589,"['X Chen', 'R Geng']"
+722,Priced risk in corporate bonds,3,59,"['P Mueller', 'A Dickerson']"
+108,Behavioural finance: A review and synthesis,2,597,['A Subrahmanyam']
+181,Controlled Markov processes and viscosity solutions,1,5976,['HM Soner']
+92,Audit reporting for going-concern uncertainty: A research synthesis,1,598,"['E Carson', 'NL Fargher', 'MA Geiger']"
+357,Expected stock returns and volatility,1,5989,"['KR French', 'RF Stambaugh', 'GW Schwert']"
+236,"Determinants of earnings forecast error, earnings forecast revision and earnings forecast accuracy",1,6,[]
+619,"Media coverage, real earnings management, and long-run market performance: Evidence from Chinese IPOs",1,6,[]
+791,Understanding the term structure of credit default swap spreads,1,60,"['B Han', 'Y Zhou']"
+810,Volatility-of-volatility and tail risk hedging returns,1,60,['YH Park']
+611,Measuring and testing the impact of news on volatility,1,6032,['RF Engle']
+556,Is accruals quality a priced risk factor?,1,604,"['WR Guay', 'R Verdi', 'JE Core']"
+1,A Survey of Behavioral Finance,5,6070,['N Barberis']
+33,A survey of behavioral finance,1,6077,"['R Thaler', 'N Barberis']"
+196,Corporate political connections and tax aggressiveness,1,610,"['L Zhang', 'C Kim']"
+464,How valuable is financial flexibility when revenue stops? Evidence from the COVID-19 crisis,1,618,['R Fahlenbrach']
+362,"Extended dividend, cash flow, and residual income valuation models: Accounting for deviations from ideal conditions",2,62,['D Hess']
+42,ABCs of trading: Behavioral biases affect stock turnover and value,1,62,['J Itzkowitz']
+204,"Corporate social responsibility, firm value, and influential institutional ownership",1,624,"['B Buchanan', 'C Chen']"
+379,"Financial constraints, R&D investment, and stock returns",1,627,['D Li']
+325,"Economic policy uncertainty, oil and stock markets in BRIC: Evidence from quantiles analysis",1,63,[]
+371,Female board directorship and firm performance: What really matters?,1,638,"['H Nagati', 'M Bennouri', 'M Nekhili']"
+564,It depends on where you search: Institutional investor attention and underreaction to news,1,639,"['A Ben-Rephael', 'Z Da']"
+219,Cross-sectional asset pricing tests,1,64,"['R Jagannathan', 'E Schaumburg']"
+746,Ratings-driven demand and systematic price fluctuations,1,64,"['Y Song', 'J Li', 'A Rossi', 'I Ben-David']"
+117,Bond variance risk premia,1,64,"['A Vedolin', 'Y Yen', 'P Mueller']"
+37,A tale of values-driven and profit-seeking social investors,1,640,"['K Koedijk', 'J Derwall']"
+558,Is momentum really momentum?,1,641,['R Novy-Marx']
+568,Labor unemployment risk and corporate financing decisions,1,646,"['AK Agrawal', 'DA Matsa']"
+124,By force of habit: A consumption-based explanation of aggregate stock market behavior,3,6490,"['JY Campbell', 'JH Cochrane']"
+76,Are disagreements agreeable? Evidence from information aggregation,1,65,"['D Huang', 'J Li']"
+457,How does ESG disclosure improve stock liquidity for enterprises—empirical evidence from China,1,65,[]
+254,Dissecting characteristics nonparametrically,10,652,"['J Freyberger', 'A Neuhierl']"
+600,Market liquidity and funding liquidity,1,6527,"['MK Brunnermeier', 'LH Pedersen']"
+245,"Disagreement, underreaction, and stock returns",1,66,"['KCJ Wei', 'L Cen', 'L Yang']"
+606,Market timing and capital structure,1,6630,"['J Wurgler', 'M Baker']"
+106,Behavioral inattention,1,665,['X Gabaix']
+256,Dissecting green returns,4,669,"['Ľ Pástor', 'RF Stambaugh', 'LA Taylor']"
+612,Measuring innovation and product differentiation: Evidence from mutual funds,1,67,['L Kostovetsky']
+29,A review of the post-earnings-announcement drift,4,67,[]
+137,Can Twitter help predict firm-level earnings and stock returns?,1,676,"['PS Mohanram', 'E Bartov', 'L Faurel']"
+384,"Financial distress and bankruptcy prediction among listed companies using accounting, market and macroeconomic variables",1,677,"['N Wilson', 'MH Tinoco']"
+247,Disclosure level and the cost of equity capital,2,6782,['CA Botosan']
+785,"The effects of earnings quality, conservatism, and real earnings management on the companys performance and information asymmetry as a moderating variable",1,68,['NM Machdar']
+546,Investor activism and takeovers,1,686,['R Greenwood']
+797,Value at risk: the new benchmark for managing financial risk,1,6862,['P Jorion']
+621,Micro data and general equilibrium models,2,689,"['LP Hansen', 'JJ Heckman', 'M Browning']"
+433,Guiding through the fog: Financial statement complexity and voluntary disclosure,1,689,"['D Samuels', 'W Guay', 'D Taylor']"
+518,Institutional investment constraints and stock prices,1,69,"['Q Wang', 'B Han', 'J Cao']"
+224,Customer-base concentration: Implications for firm performance and capital markets: 2011 American accounting association competitive manuscript award winner,1,694,['PN Patatoukas']
+407,Forecasting: theory and practice,5,698,"['D Apiletti', 'V Assimakopoulos', 'F Petropoulos']"
+38,A taxonomy of anomalies and their trading costs,4,699,"['R Novy-Marx', 'M Velikov']"
+635,Money and the C-CAPM,2,70,"['D Huang', 'RJ Balvers']"
+75,Are busy boards detrimental?,1,706,"['L Field', 'M Lowry', 'A Mkrtchyan']"
+72,Arbitrage risk and the book-to-market anomaly,1,706,['A Ali']
+706,Portfolio selection with higher moments,1,707,"['CR Harvey', 'JC Liechty']"
+189,Corporate governance and board of directors: The effect of a board composition on firm sustainability performance,1,711,['V Naciti']
+222,Currency momentum strategies,1,712,"['L Menkhoff', 'L Sarno', 'M Schmeling']"
+501,Information uncertainty and expected returns,1,712,['CMC Lee']
+394,Financial reporting complexity and investor underreaction to 10-K information,2,713,"['X Zhang', 'H You']"
+493,"Infected markets: Novel coronavirus, government interventions, and stock return volatility around the globe",4,717,"['A Zaremba', 'DY Aharon', 'R Kizys', 'E Demir']"
+579,Liquidity risk and expected stock returns,6,7171,"['Ľ Pástor', 'RF Stambaugh']"
+641,Mutual Funds R2 as Predictor of Performance,2,718,"['Y Amihud', 'R Goyenko']"
+263,Do insider trades reflect both contrarian beliefs and superior knowledge about future cash flow realizations?,1,718,"['DT Roulstone', 'JD Piotroski']"
+161,Common fund flows: Flow hedging and factor pricing,1,72,"['WW Dou', 'L Kogan', 'W Wu']"
+760,Regional economic activity and stock returns,1,72,['E Smajlbegovic']
+448,High-frequency trading: a practical guide to algorithmic strategies and trading systems,1,726,['I Aldridge']
+98,Bankruptcy classification errors in the 1980s: An empirical analysis of Altmans and Ohlsons models,1,731,[]
+519,Institutional investor stability and crash risk: Monitoring versus short-termism?,2,735,['X Fang']
+274,Do stock prices fully reflect information in accruals and cash flows about future earnings?,1,7382,['RG Sloan']
+17,A guide to modern econometrics,2,7383,['M Verbeek']
+742,"Quantitative risk management: concepts, techniques and tools-revised edition",1,7388,"['AJ McNeil', 'R Frey']"
+158,Climate risks and market efficiency,3,739,"['J Xu', 'H Hong', 'FW Li']"
+142,Carbon tail risk,2,739,"['E Ilhan', 'G Vilkov', 'Z Sautner']"
+743,R 2 and the Economy,1,74,"['B Yeung', 'R Morck']"
+350,Event study methods and evidence on their performance,1,740,[]
+180,"Contrarian investment, extrapolation, and risk",2,7428,['A Shleifer']
+489,Individual investors and financial disclosure,2,748,['A Lawrence']
+103,Behavioral finance,10,754,['D Hirshleifer']
+761,Religion and stock price crash risk,2,755,['X Fang']
+488,Independent boards and innovation,1,756,"['L Fleming', 'G Manso']"
+345,Estimating the returns to insider trading: A performance-evaluation perspective,1,761,"['R Zeckhauser', 'A Metrick']"
+5,A boosted decision tree approach using Bayesian hyper-parameter optimization for credit scoring,1,765,['Y Xia']
+763,Responding to diffused stakeholders on social media: Connective power and firm reactions to CSR-related Twitter messages,1,77,"['GD Saxton', 'C Guo', 'C Ren']"
+258,Diversification and portfolio theory: a review,1,77,['GB Koumou']
+814,What are the consequences of real earnings management?,2,770,['KA Gunny']
+554,Investor sentiment and the cross‐section of stock returns,7,7751,"['J Wurgler', 'M Baker']"
+90,Attention to global warming,1,777,"['W Jiang', 'Z Gao', 'D Choi']"
+625,Modelling abnormal returns: A review article,1,783,['N Strong']
+140,Capital structure as a strategic variable: Evidence from collective bargaining,1,784,['DA Matsa']
+466,"Human capital, bankruptcy, and capital structure",1,787,"['JB Berk', 'J Zechner', 'R Stanton']"
+314,Earnings forecasting research: its implications for capital markets research,1,788,['LD Brown']
+91,Audit committee financial expertise and earnings management: The role of status,1,788,"['DC Donelson', 'M Ege']"
+675,Option coskewness and capital asset pricing,1,79,[]
+401,"Firm characteristics, governance mechanisms, and ESG disclosure: how caring about sustainable concerns?",2,79,"['U Razi', 'F Khalid']"
+246,Disaster on the horizon: The price effect of sea level rise,1,791,"['A Bernstein', 'R Lewis', 'MT Gustafson']"
+166,Comparing the post–earnings announcement drift for surprises calculated from analyst and time series forecasts,1,793,"['J Livnat', 'RR Mendenhall']"
+703,Political uncertainty and investment: Causal evidence from US gubernatorial elections,1,794,['CE Jens']
+237,Deviations from covered interest rate parity,3,796,"['A Verdelhan', 'W Du']"
+109,Best practices in factor research and factor models,1,8,[]
+695,Policy uncertainty and stock market volatility revisited: the predictive role of signal quality,1,8,"['AA Salisu', 'R Demirer']"
+524,Intangible intensity and stock price crash risk,1,80,['K Wu']
+674,Optimal trading of a security when there are taxes and transaction costs,1,80,[]
+538,International stock return predictability: What is the role of the United States?,1,802,"['G Zhou', 'DE Rapach']"
+610,Measuring abnormal bond performance,2,803,"['KM Kahle', 'H Bessembinder']"
+214,Country responses and the reaction of the stock market to COVID-19—A preliminary exposition,1,807,"['DHB Phan', 'PK Narayan']"
+387,Financial distress prediction using integrated Z-score and multilayer perceptron neural networks,1,81,"['DL Olson', 'D Wu']"
+32,A simple model of capital market equilibrium with incomplete information,1,8133,[]
+115,Boardroom centrality and firm performance,1,814,"['CCY Wang', 'EC So', 'DF Larcker']"
+818,What factors drive global stock returns?,2,818,"['GA Karolyi', 'K Hou']"
+15,A flow-based explanation for return predictability,1,819,['D Lou']
+545,Investments,8,8197,"['AJ Marcus', 'Z Bodie']"
+794,Using and interpreting fixed effects models,1,82,"['E Dehaan', 'M Breuer']"
+107,Behavioral mediators of financial decision making–a state-of-art literature review,1,82,['DK Banwet']
+525,Intangible value,1,82,"['E Kim', 'D Papanikolaou', 'AL Eisfeldt']"
+135,"COVID‐19, ESG investing, and the resilience of more sustainable stocks: Evidence from European firms",1,82,"['G Cardillo', 'E Bendinelli']"
+348,Evaluation of clustering algorithms for financial risk analysis using MCDM methods,1,829,"['G Kou', 'Y Peng']"
+531,Intermediary asset pricing: New evidence from many asset classes,1,829,"['A Manela', 'B Kelly', 'Z He']"
+551,Investor psychology and security market under‐and overreactions,6,8295,"['D Hirshleifer', 'K Daniel']"
+355,"Excess cash, trading continuity, and liquidity risk",1,83,"['W Huang', 'K Mazouz']"
+829,Where is the risk in value? Evidence from a market‐to‐book decomposition,2,83,['A Golubov']
+599,"Market efficiency, long-term returns, and behavioral finance",3,8366,[]
+486,Income classification shifting and mispricing of core earnings,1,84,[]
+21,A model of investor sentiment,4,8417,"['A Shleifer', 'N Barberis']"
+471,Idiosyncratic risk and security returns,1,845,[]
+616,Measuring the multi-faceted dimension of liquidity in financial markets: A literature review,2,85,"['A Díaz', 'A Escribano']"
+467,IQ and stock market participation,1,850,['M Grinblatt']
+228,Decoding inside information,2,853,"['C Malloy', 'L Pomorski', 'L Cohen']"
+339,"Environmental, social and governance (ESG) scores and financial performance of multilatinas: Moderating effects of geographic international diversification and …",1,857,"['J Aguilera-Caracuel', 'E Duque-Grisales']"
+825,Whats vol got to do with it,1,859,"['A Yaron', 'I Drechsler']"
+712,Predicting future earnings changes using machine learning and detailed financial data,1,86,"['X Chen', 'Y Dou', 'B Lev', 'YH Cho']"
+35,"A survey on ESG: investors, institutions and firms",1,86,['PR Rau']
+788,Understanding commonality in liquidity around the world,2,861,"['MA Van Dijk', 'GA Karolyi']"
+594,Macroeconomic conditions and the puzzles of credit spreads and capital structure,1,862,['H Chen']
+336,Empirical pricing kernels,1,865,['RF Engle']
+244,"Disagreement, tastes, and asset prices",1,869,['KR French']
+724,Pricing an emerging industry: evidence from internet subsidiary carve-outs,1,87,['MJ Schill']
+677,Option pricing when underlying stock returns are discontinuous,1,8701,[]
+136,COVID–19s impact on stock prices across different sectors—An event study based on the Chinese stock market,1,871,['Y Sun']
+12,A consumption‐based explanation of expected stock returns,1,874,['M Yogo']
+644,Natural disasters and risk aversion,1,88,"['L Kryzanowski', 'M Bourdeau-Brien']"
+375,Financial applications of machine learning: A literature review,1,88,['N Nazareth']
+183,Corporate digital transformation and trade credit financing,1,88,[]
+598,Mandatory CSR and sustainability reporting: Economic analysis and literature review,3,880,"['C Leuz', 'HB Christensen', 'L Hail']"
+118,Book-to-market ratio and skewness of stock returns,1,89,['XJ Zhang']
+497,"Information asymmetry, information precision, and the cost of capital",1,890,['C Leuz']
+516,"Insider trading, earnings quality, and accrual mispricing",1,897,['MD Beneish']
+790,Understanding the small business sector,1,8991,['DJ Storey']
+51,Aggregate Volatility and Market Jump Risk: An Option‐Based Explanation to Size and Value Premia,1,9,['YE Arisoy']
+403,"Firm headquarters location, ownership structure, and stock return co-movements",1,9,[]
+93,"Bad beta good beta, state‐space news decomposition and the cross‐section of stock returns",1,9,[]
+808,"Volatility, distress risk, and the cross-section of portfolio returns",1,9,[]
+393,Financial markets and the real economy,2,901,['JH Cochrane']
+563,Is value riskier than growth?,2,905,"['L Zhang', 'R Petkova']"
+275,Do the Fama–French factors proxy for innovations in predictive variables?,2,909,['R Petkova']
+462,How natural disasters affect energy innovation? The perspective of environmental sustainability,1,91,['XX Zhao']
+628,Momentum has its moments,1,914,"['P Santa-Clara', 'P Barroso']"
+326,Economic significance of predictable variations in stock index returns,1,916,"['LR Glosten', 'R Jagannathan']"
+720,Price dynamics in limit order markets,1,924,['CA Parlour']
+3,A behavioral approach to asset pricing,1,925,['H Shefrin']
+268,Do measures of financial constraints measure financial constraints?,2,934,"['J Farre-Mensa', 'A Ljungqvist']"
+470,"Idiosyncratic return volatility, cash flows, and product market competition",1,940,"['PJ Irvine', 'J Pontiff']"
+701,"Political risk, economic risk, and financial risk",1,940,['CR Harvey']
+14,A five-factor asset pricing model,15,9418,['KR French']
+73,Are US industries becoming more concentrated?,2,943,"['R Michaely', 'G Grullon']"
+623,Mispricing factors,10,949,"['RF Stambaugh', 'Y Yuan']"
+2,"A Unified Theory of Tobins q, Corporate Investment, Financing, and Risk Management",1,951,"['H Chen', 'P Bolton', 'N Wang']"
+389,Financial instrument fair values and nonfinancial firms,1,96,[]
+699,Political connections and the cost of equity capital,2,960,"['W Saffar', 'D Mishra', 'N Boubakri', 'O Guedhami']"
+45,Accounting for intangibles: a literature review,1,965,[]
+528,Interest rate risk and the cross section of stock returns,2,97,"['P Maio', 'A Lioui']"
+128,CEO age and the riskiness of corporate policies,1,971,['MA Serfling']
+741,Quality minus junk,3,975,"['A Frazzini', 'LH Pedersen']"
+62,An intertemporal capital asset pricing model,4,9782,[]
+147,"Causal relations among stock returns, interest rates, real activity, and inflation",1,979,[]
+186,Corporate finance risk prediction based on LightGBM,1,98,[]
+570,Labor-market concentration and labor compensation,1,98,"['Y Qiu', 'A Sojourner']"
+693,Perspectives on the future of asset pricing,1,98,"['RSJ Koijen', 'M Brunnermeier']"
+682,Other comprehensive income: a review and directions for future research,1,98,['DE Black']
+323,Economic activity of firms and asset prices,2,98,"['L Kogan', 'D Papanikolaou']"
+259,Do behavioral biases adversely affect the macro-economy?,1,98,"['A Kumar', 'GM Korniotis']"
+591,Machine learning models and bankruptcy prediction,2,989,"['H Kimura', 'F Barboza']"
+179,Contracting under asymmetric information: Evidence from lockup agreements in seasoned equity offerings,1,99,"['JM Karpoff', 'RW Masulis']"
+150,Characteristics of a firms information environment and the information asymmetry between insiders and outsiders,1,990,['R Frankel']
+80,Are the Fama and French factors global or country specific?,1,991,['JM Griffin']
