@@ -1,3 +1,3 @@
-# academic_graphs
+# Citation Networks
 
 interesting academic graphs with insiders
